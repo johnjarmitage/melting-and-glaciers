@@ -1,0 +1,234 @@
+\documentclass[a4paper,10pt,twocolumn]{article}
+%\documentclass[a4paper,11pt,onecolumn]{article}
+
+\usepackage{natbib}
+\usepackage{rotating}
+\usepackage[font={small}]{caption}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{authblk}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{lineno}
+\usepackage[margin={2cm,2cm}]{geometry}
+
+\setlength{\hoffset}{-1.0cm}
+\setlength{\textheight}{23cm}
+\setlength{\topmargin}{-1.6cm}
+
+\title{Deglaciation and decompression melting of the mantle}
+
+\author[1]{John J.~Armitage}
+\author[2]{David Ferguson}
+\author[3]{Kenni D.~Petersen}
+\author[4]{Timothy Creyts}
+\author[1]{Thijs Franken}
+
+
+\affil[1]{\small Dynamique des Fluides G{\'e}ologiques, Institute de Physique du Globe de Paris, Paris, France}
+\affil[2]{\small School of Earth and Environment, University of Leeds, Leeds, U.K.}
+\affil[3]{\small Department of Geoscience, University of Aarhus, Aarhus, Denmark}
+\affil[4]{\small Lamont-Doherty Earth Observatory, Columbia University, U.S.A.}
+
+%\linespread{1.6}
+%\linenumbers
+
+\begin{document}
+\maketitle
+\bibliographystyle{plain}
+
+% ABSTRACT
+\textbf{
+This abstract is rubbish \dots Deglaciation is found to have a strong impact on melt production for lithosphere viscosity $\eta < 10^{21}\rm\,Pa\,s$, when the width of a 2\,km thick ice-sheet is larger than $100\rm\,km$. Under these conditions, melt productivity can be increased by more than 500\,\% and the melt composition becomes substantially depleted in light rare-Earth elements. Furthermore the impact of change in climate is frequency dependent: high order frequency changes, or step functions, create a sharp increase in volcanism, while low frequency change in surface load do not impact the rate of decompression melting.
+}
+
+\begin{figure*}[ht]
+  \centering
+  \includegraphics[width=\textwidth]{../figures/parameter_search.eps}
+  \caption{Plots of \% change in melting from steady-state to peak, and the drop in La/Sm, for a step reduction in ice-sheet thickness from 2 to 0\,km (see Figure \ref{fg:2}a), as a function of the model parameters; mantle potential temperature, up-welling rate, lithosphere viscosity, elastic thickness, and the width of the ice-sheet. In (a) and (b) the lithosphere viscosity is set to $10^{21.5}\rm\,Pa\,s$, the elastic thickness is 30\,km and the ice-sheet width is 100\,km. In parts (c) and (d) the up-welling rate is $30\rm\,mm\,yr^{-1}$, the mantle potential temperature is $1400\rm\,^{\circ}C$, and the ice-sheet width is 100\,km. In parts (e) and (f) the the up-welling rate is $30\rm\,mm\,yr^{-1}$, the mantle potential temperature is $1400\rm\,^{\circ}C$, and the lithosphere viscosity is $10^{21.5}\rm\,Pa\,s$.}
+  \label{fg:1}
+\end{figure*}
+
+% INTRODUCTION
+Surface processes directly related to climatic change can have a dramatic impact on the evolution of continental break-up. The removal of a surface load will increase the rate of decompression, and hence increase the rate of melt generation \cite{jull-1996}. The rate of decompression within the zone of partial melting will be modulated by the elastic and viscous relaxation of the lithosphere. The strength of the signal of increased melting recorded at the Earth's surface will be also controlled by the velocity at which melt percolates through the mantle \cite{maclennan-etal-2002}. To understand how linked climate and volcanism might be, we developed a reduced complexity model that links a flexing beam to a vertical column melting model. We then solve for the flow of the melt and its composition. This allows for the prediction of an eruption rate and the composition of the melts erupted. Furthermore, under the assumption that carbon dioxide concentrations are proportional to Barium and Nyobium, we can also predict the flux of carbon dioxide released due to glaciation and deglaciation.
+
+The deglaciation of the Icelandic ice sheet during the late Quaternary was likely rapid, yet the precise timing of its collapse is not clear. There is evidence of a rapid retreat of ice from the shelf sea areas of Iceland at between 15.0 and 14.7\,ka, followed by a slower final phase of deglaciation that occurred up until c.a.~13\,ka \cite{norddahl-2015}. It has been previously proposed that there was a significant increase in volcanism in Iceland after the end of the last period of major glaciation \cite{sims-etal-2013}. This could be reflected in the apparent reduction in La/Sm observed within dated volcanic lavas \cite{sims-etal-2013}, although such a signal could be lost, and altered, during transport and storage from the zone of partial melting to eruption at the Earth's surface \cite{gee-etal-1998}. At mid-ocean ridges it has also been suggested that melt production is altered by change in sea level \cite{crowley-etal-2015}. This has further raised the possibility that flux of carbon dioxide is modulated by the changing sea level, as increased melt production will increase CO$_{2}$ levels released \cite{burley-2015}. This will in turn alter the global climate, potentially increasing warming and creating a feedback between the asthenosphere and atmosphere \cite{huybers-2009,huybers-2017}. Yet, the response of the zone of partial melting will be influenced by the rheology of the uppermost mantle, the dimensions of the ice sheet, and the rate at which the melt percolates through the mantle.
+
+% METHODS
+The coupled model consists of a 1-D vertical melting column with a fixed up-welling rate. The velocity of up-welling is then altered by the time-dependent displacement of the lithosphere due to the addition or removal of the surface load. We solve for the flexure of a visco-elastic beam following \cite{sleep-1976}, where the relaxation time scale is a function of viscosity. Furthermore, we assume that the displacement due to the surface load reduces exponentially with depth as a function of the wavelength (width) of the load \cite{england-etal-1985}. The subsequent displacement due to the load is subtracted from the upwards displacement due to lithosphere extension. The kinetic rate of decompression melting is solved for given both a `wet' and `dry' solidus, and the rare-Earth element melt composition is tracked assuming disequilibrium melting \cite{spiegelman-1996} (see methods section). This provides a simple platform to explore the impact of key parameters such as: ice-sheet dimensions, elastic thickness, lithosphere viscosity, mantle potential temperature, up-welling rate, and mantle permeability.
+
+% RESULTS
+
+First we explore the effect of ice sheet width, the rheology of the lithosphere and the rate of decompression (Figure \ref{fg:1}). We explore how changing these five parameters impacts the peak melt production and corresponding minimum La/Sm melt ratio averaged over the whole zone of partial melt due to a single step change in ice-sheet thickness from 2\,km to 0\,km (see for example Figure \ref{fg:A}a). By varying the rate of up-welling and the mantle temperature while keeping the other three parameters fixed, we find that melt production increases with decreasing up-welling rate, as the displacement will have a larger effect (Figure \ref{fg:1}a and b). In 2-D simulations it has however been observed that the width of the zone of partial melting also changes with spreading rate, so countering this 1-D effect \cite{crowley-etal-2015}. Mantle temperature however does impact the peak volume and peak low in La/Sm (Figure \ref{fg:1}b). This is because a hotter mantle is more productive. The change in La/Sm reduces with increasing temperature because melt production extends to greater depth with increasing temperature. This damps the signal of increased shallow (high Sm) relative to deep (high La) melting induced by the change in surface load.
+
+The increase in melt production due to the step removal of the ice-sheet is much more sensitive to the mechanical properties of the lithosphere (Figure \ref{fg:1}c and d). If the elastic thickness and viscosity are low, then the quantity of melt generated is increased by a factor of 2500\,\% (Figure \ref{fg:1}c) because, for low elastic thickness and viscosity, there is a maximum in flexural displacement. Furthermore, by varying the wavelength of the ice-sheet, it can be seen that at wavelengths less than 200\,km the geometry of the ice-sheet strongly modulates the magnitude of the response, as the displacement due to unloading decreases with depth down the melting column as a exponential function of the wavelength (Figure \ref{fg:1}e and f). Hence small ice-sheets have a smaller impact on melt generation.
+
+In reality, the surface record of volcanism is not one of melt production rate or averaged melt composition. Rather, it is a record change in the rate of eruption and the composition of the melt that has been transported from the zone of partial melting up to the surface. The velocity at which melt percolates upwards through the mantle is a function of the closure equation between permeability and porosity. Experiments on olivine-basalt aggregates would suggest that permeability $k_{\phi} \sim k\phi^{3}$, where $10^{-9} \geq k \leq 10^{-5}\rm\,m^{-2}$ \cite{katz-2008,miller-etal-2014}. This translates into a range of three orders of magnitude for the vertical velocity of melt \cite{weatherley-2016}. Evidence from uranium and thorium isotopes suggest that melt escapes from the zone of partial melting within 1600 years (or a velocity $>1\rm\,m\,yr^{-1}$) \cite{elliot-2014}, therefore we will restrict models to the upper range of permeability constant $10^{-7} \geq k \leq 10^{-5}\rm\,m^{-2}$ and explore how eruption rate and melt composition responds to a change in surface load. The ice sheet is 300\,km in diameter, with an up-welling rate of $20\rm\,mm\,yr^{-1}$, a mantle potential temperature of $1400\rm\,^{\circ}C$, a lithosphere viscosity of $10^{20.5}\rm\,Pa\,s$ and elastic thickness of 10\,km (Figure \ref{fg:A}).
+
+If permeability is low ($k = 10^{-7}\rm\,m^{-2}$) then the response to deglaciation is a rapid doubling of eruption rate, and glaciation is marked by a gradual reduction in eruption rate over a period of 35\,kyrs (Figure \ref{fg:A}b). If $k = 10^{-7}\rm\,m^{-2}$ melt percolates upwards at a velocity of the order of $1\rm\,m\,yr^{-1}$. If however permeability is increased to $10^{-5}\rm\,m^{-2}$, melt velocities are of the order of $10\rm\,m\,yr^{-1}$, and the eruption rate due to the removal of the ice sheet increases by roughly four times (Figure \ref{fg:A}b). The response to glaciation is also more rapid, with a shut down in the melting system recorded 25\,kyrs after the onset of glaciation (Figure \ref{fg:A}b).
+
+\begin{figure}
+  \includegraphics[width=8.2cm]{../figures/percol_erupt_CO2.eps}
+  \caption{Prediction of eruption rate, La/Sm of the melt erupted, and CO$_{2}$ flux as a consequence of step change in ice sheet thickness. Solid lines are for a permeability of $10^{-5}\rm\,m^{-2}$ and the dashed line is for a permeability of $10^{-7}\rm\,m^{-2}$ (mantle potential temperature is $1450\rm\,^{\circ}C$).}
+  \label{fg:A}
+\end{figure}
+
+The chemical signal of glaciation is highly sensitive to the permeability. If permeability is low then the La/Sm ratio gently undulates around a mean of $\sim 1.5$, where the peak in La/Sm slightly after the pulse in eruption rate due to deglaciation (Figure \ref{fg:A}b and c). The composition reflects the interplay between how the shallow and deep melting systems interact when the slowly traveling melt becomes diluted through the shallower melt zones due to the periodic forcing. Increased deep melting, which would be expected during the post glaciation recovery, would lead to an increased light REE composition relative to the heavy elements within the averaged melt composition. However, due to the slow percolation of the deepest melts through the zone of partial melting the signal gets diluted by the shallower silicate melting above. The same is true for post deglaciation, where a reduction in light relative to heavy elements may be expected \cite{maclennan-etal-2002}. 
+
+The behaviour of the La/Sm ratio when permeability is high is very different. For the case where $k = 10^{-5}\rm\,m^{-2}$, a high La/Sm ratio of 3 corresponds with the recovery of the melting column at 25\,kyr after the onset of glaciation, where deep melts percolate rapidly upwards (Figure \ref{fg:A}c). There is subsequently a reduction in La/Sm from $\sim 1.5$ to 1 at after 9\,kyrs from the removal of the ice sheet due to the increased shallow relative to deep melting. The averaged composition of the zone of partial melting also records a negative shift in La/Sm due to removal of the ice sheet from 1.5 to almost 0.5 depending on the ice sheet and lithosphere parameters (Figure \ref{fg:1}b to f). The inclusion of melt percolation therefore demonstrates that if permeability is low, then the erupted rock composition most likely does not correspond to the actual conditions in the zone of partial melting due to deglaciation \cite{gee-etal-1998,maclennan-etal-2002}.
+
+It is somewhat logical to assume that increased eruption rate leads to an increased degassing of CO$_{2}$. The partitioning of carbon from peridotite to melt has been estimated from melting experiments on carbonated olivine tholeiite \cite{rosenthal-etal-2015}. It was found that carbon likely behaves as a highly incompatible trace element, with an effective partition coefficient of 0.00055 \cite{rosenthal-etal-2015}. To explore how CO$_{2}$ fluxes may vary due to glaciation and deglaciation we predict the concentration of carbon assuming there is 285\,ppm in the source (intermediate between the two estimates of ref.~\cite{rosenthal-etal-2015}, the partition coefficients for olivine, opx, cpx and garnet taken from ref.~\cite{rosenthal-etal-2015}, and for spinel and plagioclase we use the effective partition coefficient. The carbon flux is then given by the concentration multiplied by the eruption rate at the model surface.
+
+Deglaciation is marked by a sharp increase in carbon concentrations, with roughly a 100\,\% increase in the melt concentration for both model permeability (Figure \ref{fg:A}d). This is because of the increased eruption rate that increases therefore increases the carbon flux. There is however a second pulse in carbon flux which corresponds with the recovery of the melting model after glaciation. As with La concentrations (and other incompatible elements), there is a strong spike in carbon due to the greater importance of deep melting as the melting column recovers. The signal is stronger for the high permeability model, where the model predicts a $>200\,\%$ increase in carbon concentrations 25\,kyr post glaciation (Figure \ref{fg:A}d).
+
+\begin{figure}
+  \includegraphics[width=8.2cm]{../figures/percol_erupt_CO2_1650.eps}
+  \caption{Prediction of eruption rate, La/Sm of the melt erupted, and CO$_{2}$ flux as a consequence of step change in ice sheet thickness. Solid lines are for a permeability of $10^{-5}\rm\,m^{-2}$ and the dashed line is for a permeability of $10^{-7}\rm\,m^{-2}$ (mantle potential temperature is $1650\rm\,^{\circ}C$).}
+  \label{fg:A1}
+\end{figure}
+
+An increase in the mantle temperature changes the magnitude of the peaks and troughs in eruption rate but not the over-all trend (Figure \ref{fg:A1}). If the mantle potential temperature is $1650\rm\,^{\circ}C$ then the eruption rate for $k = 10^{-5}\rm\,m^{-2}$ increases roughly by 30 times (Figure \ref{fg:A1}b). However, the magnitude of change in La/Sm is similar, with an oscillation around a mean of 1.5, with peaks at 2.5 and a minimum of 1 (Figure \ref{fg:A1}c). The trend in carbon flux is modified by the increased proportion of deep melting. For high permeability the delayed signal of glaciation becomes larger and elongated in time because of the increased deep melting due to higher mantle temperatures (Figure \ref{fg:A1}d). Furthermore the spoke in carbon flux due to deglaciation reaches a magnitude that is 500\,\% greater than the mean flux (Figure \ref{fg:A1}d).
+
+\begin{figure}
+  \includegraphics[width=8.2cm]{../figures/iceland_prefered2.eps}
+  \caption{Comparison of instantaneous melt extraction and erupted composition assuming disequilibrium melt transport. The up-welling rate is $20\rm\,mm\,yr^{-1}$, the mantle potential temperature is $1450\rm\,^{\circ}C$, the lithosphere viscosity is $10^{20.5}\rm\,Pa\,s$, the elastic thickness is 10\,km, and the wavelength of the ice-sheet is 300\,km. (a) Change in ice sheet thickness. (b) Change in melt eruption rate. (c) The subsequent change in La/Sm, where the observations are from the Iceland. Grey rectangles display the mean and standard deviation of lava compositions from outcrops within the Northern Volcanic Zone (data compilation in ref.~\cite{sims-etal-2013}). The black circles without are individual isotope dilution measurements from the Reykjanes Peninsula \cite{gee-etal-1998}.}
+  \label{fg:2}
+\end{figure}
+
+Evidence of increased volcanism after the last glacial maximum during the Holocene has been linked to the deglaciation \cite{jull-1997,gee-etal-1998,maclennan-etal-2002,sims-etal-2013}. Along with the evidence of increased volcanism, there is a recorded reduction in the La/Sm of erupted lavas from $2.17\pm0.61$ before deglaciation to $1.34\pm0.58$ immediately post-deglaciation \cite{sims-etal-2013} (Figure \ref{fg:2}). If this reduction in La/Sm is due to deglaciation, then the melt percolation must be rapid otherwise no reduction in La/Sm would be observed (Figures \ref{fg:A} and \ref{fg:A1}). Furthermore, under the assumptions of the 1-D melting model the mantle potential temperature needs to be roughly $1450\rm\,^{\circ}C$ to fit the observed magnitude of La/Sm (Figure \ref{fg:A}c). By attempting to match the observed change in La/Sm with a model where the permeability coefficient is $10^{-5}\rm\,m^{-2}$ (Figure \ref{fg:2}), we find that the timing of a single rapid deglaciation event needs to have occurred at a time 15\,ka. 
+
+% SEISMIC VELOCITY
+The closure equation between permeability and porosity effects more than simply the rate at which melt percolates upwards. If permeability is increased then porosity reduces (Figure \ref{fg:B}a). From the inversion of the REE composition of lavas erupted, the mantle potential temperature has been estimated to be $1480\rm\,^{\circ}C$ \cite{maclennan-etal-2001}. The seismic velocity below Iceland is slow, with a broad low of $3.5\rm\,km\,s^{-1}$ modelled from the joint inversion of teleseismic and ambient noise Rayleigh waves \cite{harmon-2016} (Figure \ref{fg:B}b and c). This broad low could be due to high temperature and melt retention. We therefore convert the 1-D profiles of temperature and porosity to S-wave velocity following the methods of Goes et al.~\cite{goes-etal-2012,armitage-etal-epsl-2015}. From a qualitative comparison it can be observed that the low permeability model predicts a shallow low-velocity zone that is both to slow and too shallow (Figure \ref{fg:B}c). It therefore is more likely that permeability is high, melt retention is low, and melt compositions do react geologically rapidly glacial loading and unloading.
+
+\begin{figure*}[t]
+  \includegraphics[width=14.5cm]{../figures/seismics.eps}
+  \caption{Vertical profiles of porosity and the conversion to S-wave velocity for different permeability and mantle potential temperatures.}
+  \label{fg:B}
+\end{figure*}
+
+% DISCUSSION
+
+% CONCLUSIONS
+The models presented here suggest that past rapid deglaciation may have had a large impact on volcanism \dots
+
+\section*{Methods Section}
+
+We solve for the conservation of energy and the vertical percolation of melt within a one-dimensional vertical column. Following ref.~\cite{scott-1992}, we define a average velocity of the solid and liquid phases,
+\begin{equation}
+\bar{v} = (1-\phi)v_{s} + \phi v_{l},
+\label{eq:1}
+\end{equation}
+where $\phi$ is porosity, $v_{S}$ is the solid mantle velocity, $v_{l}$ is the melt velocity. The change in surface load is assumed to impact the velocity $\bar{v}$. We calculate the displacement due to a load following ref.~\cite{sleep-1976}, where the change in surface displacement, $w_{0}$, with time is given by,
+\begin{equation}
+N\frac{\partial^{4}}{\partial x^{4}} \left(\frac{\partial w_{0}}{\partial t} \right) = \frac{P_{ice}}{\tau_{e}},
+\label{eq:a}
+\end{equation}
+ where $N$ is the elastic flexural rigidity, $P_{ice}$ is the load die to the ice sheet, and $\tau_{e}$ is the viscoelastic decay time. The elastic flexural rigidity is given by,
+\begin{equation}
+N = \frac{E T_{e}}{12(1-\mu^{2})},
+\label{eq:b}
+\end{equation}
+where $E$ is Young's modulus, $T_{e}$ is the effective elastic thickness, and $\mu$ is Poisson's ratio. The viscoelastic decay time is defined as \cite{sleep-1976},
+\begin{equation}
+\tau_{e} = \frac{3\eta_{s}}{E},
+\label{eq:c}
+\end{equation}
+where $\eta_{s}$ is the viscosity of the lithosphere. Equation \ref{eq:a} is solved using a simple finite element model with linear weighting functions, to solve for $w_{0}$ as a function of time due to the change in surface load. The vertical velocity of the mantle below is then updated by the rate of change in displacement due to the surface load, assuming that the displacement decays with depth as a function of the wavelength (width) of the ice load \cite{england-etal-1985},
+\begin{equation}
+w = w_{0} exp\left(-\sqrt{3}\pi \frac{z}{\lambda}\right).
+\label{eq:d}
+\end{equation}
+Therefore the vertical velocity is given by,
+\begin{equation}
+\bar{v} = u + \frac{\partial w}{\partial t},
+\label{eq:e}
+\end{equation}
+where $u$ is the constant upwelling rate.
+
+To calculate the veritcal flow of melt as function of variations in the decompression rate, the conservation of energy is given by,
+\begin{equation}
+mL + \frac{\partial T}{\partial t} + \bar{v}\frac{\partial T}{\partial z} - \kappa\frac{\partial^{2} T}{\partial z^{2}} = 0,
+\label{eq:2}
+\end{equation}
+where $m$ is the melt production rate, $L$ is the latent heat of fusion, $\rho$ is the mantle density, $T$ is temperature, and $kappa$ is the thermal diffusion coefficient. The conservation of mass for the liquid phase is given by,
+\begin{equation}
+\frac{\partial \phi}{\partial t} + \frac{\partial}{\partial z}\left(\phi v_{l}\right) = m.
+\label{eq:3}
+\end{equation}
+
+To relate the solid velocity to the liquid velocity we turn to Darcy's law,
+\begin{equation}
+\phi\left(v_{l}-v_{s}\right) = \frac{k_{0}\phi^{n}}{\eta_{l}}\left(\Delta\rho g + \frac{\partial P}{\partial z}\right),
+\label{eq:4}
+\end{equation}
+where $k_{0}$ is the permeability coefficient, $n$ is the exponent on the assumed power law relation between permeability and porosity, $\Delta\rho$ is the density difference between melt and the solid mantle, $g$ is gravity, and $P$ is the pore pressure. We simplify equation \ref{eq:4} by assuming that the compaction length scale is very small, the zero-compaction length approximation \cite{ribe-1985}. This means that Darcy's law becomes,
+\begin{equation}
+\phi\left(v_{l}-v_{s}\right) = \frac{k_{0}\phi^{n}}{\eta_{l}} \Delta\rho g.
+\label{eq:5}
+\end{equation}
+Furthermore, we substitute $v_{s}$ with $\bar{v}$ (equation \ref{eq:1}) to get,
+\begin{equation}
+\left(v_{l}-\bar{v}\right) = \left(1-\phi\right)\frac{k_{0}\phi^{n-1}}{\eta_{l}} \Delta\rho g.
+\label{eq:6}
+\end{equation}
+This form of Darcy's law allows us to substitute for $v_{l}$ for $\bar{v}$ within the conservation of the liquid phase to give,
+\begin{equation}
+\frac{\partial \phi}{\partial t} + \bar{v} \frac{\partial \phi}{\partial z} + \frac{3k_{0}\Delta\rho g}{\eta_{l}} \phi^{2}\left(1-\frac{4}{3}\phi\right)\frac{\partial \phi}{\partial z} = m.
+\label{eq:7}
+\end{equation}
+Here we assume that $\partial\bar{v}/\partial z \sim 0$.
+
+Equations \ref{eq:2} and \ref{eq:3} are coupled by the melt production rate. We calculate the melting rate from the temperature difference above the solidus. The solidus is a function of water content, depletion, temperature and pressure. In the energy balance we have ignored the loss of heat as the mantle decompresses, but the adiabatic gradient needs to be accounted for within the thermodynamic balance for the melting equations. Assuming the mantle is dehydrated it is calculated as,
+\begin{equation}
+T_{Sdry} = T_{S0} + \frac{\partial T_{S}}{\partial F}\vert_{P}F + \left(\frac{\partial T_{S}}{\partial P}\vert_{F} + \frac{\alpha T_{0}}{\rho C_{p}}\right)P,
+\label{eq:9}
+\end{equation}
+where $\partial T_{S}/\partial F\vert_{P}$ is the solidus depletion gradient, $F$ is depletion, $\partial T_{S}/\partial P\vert_{F}$ is the solidus pressure gradient, $\alpha$ is the coefficient of thermal expansion, $T_{0}$ is the mantle penitential temperature, $C_{p}$ is the heat capacity, and $P$ is pressure. The solidus is assumed to deepen in the presence of water,
+\begin{equation}
+T_{Swet} = T_{Sdry} + K\left(D_{H_{2}O}C_{H_{2}O}\right)^{\gamma},
+\label{eq:10}
+\end{equation}
+where the coefficients $K$ and $\gamma$ are from the parameterisation of Katz et al.~ref \cite{katz-etal-2003} (their equation 16), $D_{H_{2}O}$ is the partition coefficient for water, and $C_{H_{2}O}$ is the concentration of water within the solid mantle. Therefore the melt productivity is given by,
+\begin{equation}
+m = \frac{\Delta T}{L + \frac{\partial T_{S}}{\partial F}\vert_{P} + \frac{\partial T_{S}}{\partial F}\vert_{H_{2}O}},
+\label{eq:11}
+\end{equation}
+where $\Delta T = T-T_{S}$ is the temperature difference between the mantle and the solidus, and $\partial T_{S}/\partial F\vert_{H_{2}O}$ is the solidus depletion gradient during the melting of a hydrated mantle. This is calculated using the chain rule,
+\begin{equation}
+\frac{\partial T_{S}}{\partial F}\vert_{H_{2}O} = \frac{\partial T_{S}}{\partial C_{H_{2}O}} \frac{\partial C_{H_{2}O}}{\partial F}.
+\label{eq:12}
+\end{equation}
+The change in water composition as a function of depletion is calculated  assuming a mass balance between the partitioning of water between the solid and melt phase,
+\begin{equation}
+\frac{\partial C_{H_{2}O}}{\partial F} = -C_{H_{2}O} \frac{1}{D_{H_{2}O}}\left(1-F\right)^{\frac{1}{D_{H_{2}O}}-2}
+\label{eq:13}
+\end{equation}
+and the gradient in solidus with water composition is from equation \ref{eq:10},
+\begin{equation}
+\frac{\partial T_{S}}{\partial C_{H_{2}O}} = \gamma K\left(D_{H_{2}O}C_{H_{2}O}\right)^{\gamma-1}
+\label{eq:14}
+\end{equation}
+
+The kinetic calculation of melt production described in equations \ref{eq:9} to \ref{eq:14} can be unstable for small time steps as temperature is a function of the melt production and the melt production is a function of the temperature. The mantle composition also feeds back into the solidus and hence melt production. If the jump in temperature due to the movement of the solid mantle between time steps is too large the model can become unstable. To improve stability we therefore implemented a simple Runga Kutta scheme to solve equations \ref{eq:9} to \ref{eq:14} once the temperature solution was found.
+
+To track the composition of the melt we assume dissequilibrium melting following ref.~\cite{spiegelman-1996}. The conservation of the solid composition, $C_{s}$, is given as,
+\begin{equation}
+\frac{\partial C_{s}}{\partial t} + v_{s}\frac{\partial C_{s}}{\partial z} = \left(\frac{1}{D} - 1\right) \frac{C_{s}m}{1-\phi},
+\label{eq:15}
+\end{equation}
+and the melt composition, $C_{l}$, can be written as follows,
+\begin{equation}
+\frac{\partial C_{l}}{\partial t} + v_{l}\frac{\partial C_{f}}{\partial z} = \left(\frac{C_{S}}{D} - C_{l}\right)\frac{m}{\phi}.
+\label{eq:16}
+\end{equation}
+The melt composition is calculated from the solid composition and knowledge of the partition coefficient $D$. To calculate the partition coefficient for the rare Earth elements La and Sm we use the partition coefficients and the phase diagram for mantel facies as defined by ref.~\cite{gibson-2010}. For carbon we use the partition coefficients of ref.~\cite{rosenthal-etal-2015}. The water composition of the solid mantle is advected using equation \ref{eq:15}, assuming a partition ceofficent of 0.01.
+
+We first solve equations \ref{eq:2} and \ref{eq:7}, decomposing the diffusion and advection components and using a standard second order accurate explicit finite difference scheme (TVD) for the diffusion and a flux conservative total variance diminishing scheme for the advection term. Once we have solved for porosity and temperature we calculate the melt and solid velocity using equation \ref{eq:1}, and update the solid and melt compositions (equations \ref{eq:15} and \ref{eq:16} use the the same TVD scheme.
+
+\section*{Acknowledgments}
+
+We would like to thank Mary Gee (University of Western Australia) for sharing her data. We thank Benjamin Camforts (University of Leuven), Jason Morgan (Royal Holloway University of London), and Mustapha Zakari (Universit{\'e} Pierre et Marie Curie) for help in developing the numerical model. This work is funded by the ANR ACHN grant `InterRift' awarded to John Armitage. 
+
+\bibliography{../../../../ref}
+
+\end{document} 

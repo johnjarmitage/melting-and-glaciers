@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ice-melt-percolate-grl.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ../../../../ref.bib.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 49 entries,
+            6951 wiz_defined-function locations,
+            1591 strings with 20886 characters,
+and the built_in function-call counts, 109262 in all, are:
+= -- 13411
+> -- 925
+< -- 5742
++ -- 6165
+- -- 98
+* -- 7323
+:= -- 20841
+add.period$ -- 202
+call.type$ -- 49
+change.case$ -- 837
+chr.to.int$ -- 0
+cite$ -- 98
+duplicate$ -- 2936
+empty$ -- 3818
+format.name$ -- 1537
+if$ -- 20026
+int.to.chr$ -- 0
+int.to.str$ -- 147
+missing$ -- 0
+newline$ -- 1350
+num.names$ -- 396
+pop$ -- 1342
+preamble$ -- 1
+purify$ -- 196
+quote$ -- 0
+skip$ -- 6790
+stack$ -- 0
+substring$ -- 6780
+swap$ -- 1675
+text.length$ -- 156
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 4176
+warning$ -- 0
+while$ -- 523
+width$ -- 0
+write$ -- 1721

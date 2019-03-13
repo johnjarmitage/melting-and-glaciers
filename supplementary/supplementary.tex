@@ -1,0 +1,172 @@
+%\documentclass[a4paper,10pt,twocolumn]{article}
+\documentclass[a4paper,11pt,onecolumn]{article}
+
+\usepackage{natbib}
+\usepackage{rotating}
+\usepackage[font={small}]{caption}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{authblk}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{lineno}
+\usepackage[margin={2cm,2cm}]{geometry}
+\usepackage[hidelinks]{hyperref}
+
+\setlength{\hoffset}{-1.0cm}
+\setlength{\textheight}{23cm}
+\setlength{\topmargin}{-1.6cm}
+
+\title{Supplementary material for: Modulation of Icelandic volcanic CO$_{2}$ flux by ice sheet growth and retreat}
+
+\author[1]{John J.~Armitage}
+\author[2]{David Ferguson}
+\author[3]{Kenni D.~Petersen}
+\author[4]{Timothy Creyts}
+\author[1]{Thijs Franken}
+
+
+\affil[1]{\small Dynamique des Fluides G{\'e}ologiques, Institute de Physique du Globe de Paris, Paris, France}
+\affil[2]{\small School of Earth and Environment, University of Leeds, Leeds, U.K.}
+\affil[3]{\small Department of Geoscience, University of Aarhus, Aarhus, Denmark}
+\affil[4]{\small Lamont-Doherty Earth Observatory, Columbia University, U.S.A.}
+
+%\linespread{1.6}
+%\linenumbers
+
+\begin{document}
+\maketitle
+\bibliographystyle{plain}
+
+\section{Numerical Model Description and Methods}
+
+We solve for the conservation of energy and the vertical percolation of melt within a one-dimensional vertical column. Following ref.~\cite{scott-1992}, we define a average velocity of the solid and liquid phases,
+\begin{equation}
+\bar{v} = (1-\phi)v_{s} + \phi v_{l},
+\label{eq:1}
+\end{equation}
+where $\phi$ is porosity, $v_{S}$ is the solid mantle velocity, $v_{l}$ is the melt velocity. The change in surface load is assumed to impact the velocity $\bar{v}$. We calculate the displacement due to a load following ref.~\cite{sleep-1976}, where the change in surface displacement, $w_{0}$, with time is given by,
+\begin{equation}
+N\frac{\partial^{4}}{\partial x^{4}} \left(\frac{\partial w_{0}}{\partial t} \right) = \frac{P_{ice}}{\tau_{e}},
+\label{eq:a}
+\end{equation}
+ where $N$ is the elastic flexural rigidity, $P_{ice}$ is the load die to the ice sheet, and $\tau_{e}$ is the viscoelastic decay time. The elastic flexural rigidity is given by,
+\begin{equation}
+N = \frac{E T_{e}}{12(1-\mu^{2})},
+\label{eq:b}
+\end{equation}
+where $E$ is Young's modulus, $T_{e}$ is the effective elastic thickness, and $\mu$ is Poisson's ratio. The viscoelastic decay time is defined as \cite{sleep-1976},
+\begin{equation}
+\tau_{e} = \frac{3\eta_{s}}{E},
+\label{eq:c}
+\end{equation}
+where $\eta_{s}$ is the viscosity of the lithosphere. Equation \ref{eq:a} is solved using a simple finite element model with linear weighting functions, to solve for $w_{0}$ as a function of time due to the change in surface load. The vertical velocity of the mantle below is then updated by the rate of change in displacement due to the surface load, assuming that the displacement decays with depth as a function of the wavelength (width) of the ice load \cite{england-etal-1985},
+\begin{equation}
+w = w_{0} exp\left(-\sqrt{3}\pi \frac{z}{\lambda}\right).
+\label{eq:d}
+\end{equation}
+Therefore the vertical velocity is given by,
+\begin{equation}
+\bar{v} = u + \frac{\partial w}{\partial t},
+\label{eq:e}
+\end{equation}
+where $u$ is the constant upwelling rate.
+
+To calculate the veritcal flow of melt as function of variations in the decompression rate, the conservation of energy is given by,
+\begin{equation}
+mL + \frac{\partial T}{\partial t} + \bar{v}\frac{\partial T}{\partial z} - \kappa\frac{\partial^{2} T}{\partial z^{2}} = 0,
+\label{eq:2}
+\end{equation}
+where $m$ is the melt production rate, $L$ is the latent heat of fusion, $\rho$ is the mantle density, $T$ is temperature, and $kappa$ is the thermal diffusion coefficient. The conservation of mass for the liquid phase is given by,
+\begin{equation}
+\frac{\partial \phi}{\partial t} + \frac{\partial}{\partial z}\left(\phi v_{l}\right) = m.
+\label{eq:3}
+\end{equation}
+
+To relate the solid velocity to the liquid velocity we turn to Darcy's law,
+\begin{equation}
+\phi\left(v_{l}-v_{s}\right) = \frac{k_{0}\phi^{n}}{\eta_{l}}\left(\Delta\rho g + \frac{\partial P}{\partial z}\right),
+\label{eq:4}
+\end{equation}
+where $k_{0}$ is the permeability coefficient, $n$ is the exponent on the assumed power law relation between permeability and porosity, $\Delta\rho$ is the density difference between melt and the solid mantle, $g$ is gravity, and $P$ is the pore pressure. We simplify equation \ref{eq:4} by assuming that the compaction length scale is very small, the zero-compaction length approximation \cite{ribe-1985}. This means that Darcy's law becomes,
+\begin{equation}
+\phi\left(v_{l}-v_{s}\right) = \frac{k_{0}\phi^{n}}{\eta_{l}} \Delta\rho g.
+\label{eq:5}
+\end{equation}
+Furthermore, we substitute $v_{s}$ with $\bar{v}$ (equation \ref{eq:1}) to get,
+\begin{equation}
+\left(v_{l}-\bar{v}\right) = \left(1-\phi\right)\frac{k_{0}\phi^{n-1}}{\eta_{l}} \Delta\rho g.
+\label{eq:6}
+\end{equation}
+This form of Darcy's law allows us to substitute for $v_{l}$ for $\bar{v}$ within the conservation of the liquid phase to give,
+\begin{equation}
+\frac{\partial \phi}{\partial t} + \bar{v} \frac{\partial \phi}{\partial z} + \frac{3k_{0}\Delta\rho g}{\eta_{l}} \phi^{2}\left(1-\frac{4}{3}\phi\right)\frac{\partial \phi}{\partial z} = m.
+\label{eq:7}
+\end{equation}
+Here we assume that $\partial\bar{v}/\partial z \sim 0$.
+
+Equations \ref{eq:2} and \ref{eq:3} are coupled by the melt production rate. We calculate the melting rate from the temperature difference above the solidus. The solidus is a function of water content, depletion, temperature and pressure. In the energy balance we have ignored the loss of heat as the mantle decompresses, but the adiabatic gradient needs to be accounted for within the thermodynamic balance for the melting equations. Assuming the mantle is dehydrated it is calculated as,
+\begin{equation}
+T_{Sdry} = T_{S0} + \frac{\partial T_{S}}{\partial F}\vert_{P}F + \left(\frac{\partial T_{S}}{\partial P}\vert_{F} + \frac{\alpha T_{0}}{\rho C_{p}}\right)P,
+\label{eq:9}
+\end{equation}
+where $\partial T_{S}/\partial F\vert_{P}$ is the solidus depletion gradient, $F$ is depletion, $\partial T_{S}/\partial P\vert_{F}$ is the solidus pressure gradient, $\alpha$ is the coefficient of thermal expansion, $T_{0}$ is the mantle penitential temperature, $C_{p}$ is the heat capacity, and $P$ is pressure. The solidus is assumed to deepen in the presence of water,
+\begin{equation}
+T_{Swet} = T_{Sdry} + K\left(D_{H_{2}O}C_{H_{2}O}\right)^{\gamma},
+\label{eq:10}
+\end{equation}
+where the coefficients $K$ and $\gamma$ are from the parameterisation of Katz et al.~ref \cite{katz-etal-2003} (their equation 16), $D_{H_{2}O}$ is the partition coefficient for water, and $C_{H_{2}O}$ is the concentration of water within the solid mantle. Therefore the melt productivity is given by,
+\begin{equation}
+m = \frac{\Delta T}{L + \frac{\partial T_{S}}{\partial F}\vert_{P} + \frac{\partial T_{S}}{\partial F}\vert_{H_{2}O}},
+\label{eq:11}
+\end{equation}
+where $\Delta T = T-T_{S}$ is the temperature difference between the mantle and the solidus, and $\partial T_{S}/\partial F\vert_{H_{2}O}$ is the solidus depletion gradient during the melting of a hydrated mantle. This is calculated using the chain rule,
+\begin{equation}
+\frac{\partial T_{S}}{\partial F}\vert_{H_{2}O} = \frac{\partial T_{S}}{\partial C_{H_{2}O}} \frac{\partial C_{H_{2}O}}{\partial F}.
+\label{eq:12}
+\end{equation}
+The change in water composition as a function of depletion is calculated  assuming a mass balance between the partitioning of water between the solid and melt phase,
+\begin{equation}
+\frac{\partial C_{H_{2}O}}{\partial F} = -C_{H_{2}O} \frac{1}{D_{H_{2}O}}\left(1-F\right)^{\frac{1}{D_{H_{2}O}}-2}
+\label{eq:13}
+\end{equation}
+and the gradient in solidus with water composition is from equation \ref{eq:10},
+\begin{equation}
+\frac{\partial T_{S}}{\partial C_{H_{2}O}} = \gamma K\left(D_{H_{2}O}C_{H_{2}O}\right)^{\gamma-1}
+\label{eq:14}
+\end{equation}
+
+The kinetic calculation of melt production described in equations \ref{eq:9} to \ref{eq:14} can be unstable for small time steps as temperature is a function of the melt production and the melt production is a function of the temperature. The mantle composition also feeds back into the solidus and hence melt production. If the jump in temperature due to the movement of the solid mantle between time steps is too large the model can become unstable. To improve stability we therefore implemented a simple Runga Kutta scheme to solve equations \ref{eq:9} to \ref{eq:14} once the temperature solution was found.
+
+To track the composition of the melt we assume dissequilibrium melting following ref.~\cite{spiegelman-1996}. The conservation of the solid composition, $C_{s}$, is given as,
+\begin{equation}
+\frac{\partial C_{s}}{\partial t} + v_{s}\frac{\partial C_{s}}{\partial z} = \left(\frac{1}{D} - 1\right) \frac{C_{s}m}{1-\phi},
+\label{eq:15}
+\end{equation}
+and the melt composition, $C_{l}$, can be written as follows,
+\begin{equation}
+\frac{\partial C_{l}}{\partial t} + v_{l}\frac{\partial C_{f}}{\partial z} = \left(\frac{C_{S}}{D} - C_{l}\right)\frac{m}{\phi}.
+\label{eq:16}
+\end{equation}
+The melt composition is calculated from the solid composition and knowledge of the partition coefficient $D$. To calculate the partition coefficient for the rare Earth elements La and Sm we use the partition coefficients and the phase diagram for mantel facies as defined by ref.~\cite{gibson-2010}. For carbon we use the partition coefficients of ref.~\cite{rosenthal-etal-2015}. The water composition of the solid mantle is advected using equation \ref{eq:15}, assuming a partition ceofficent of 0.01.
+
+We first solve equations \ref{eq:2} and \ref{eq:7}, decomposing the diffusion and advection components and using a standard second order accurate explicit finite difference scheme (TVD) for the diffusion and a flux conservative total variance diminishing scheme for the advection term. Once we have solved for porosity and temperature we calculate the melt and solid velocity using equation \ref{eq:1}, and update the solid and melt compositions (equations \ref{eq:15} and \ref{eq:16} use the the same TVD scheme.
+
+The MATLAB code is available at \url{https:bitucket.com/johnjarmitage/melt1d-icesheet/}.
+
+\section{Model sensitivity}
+
+\begin{figure*}[ht]
+  \centering
+  \includegraphics[width=\textwidth]{../figures/version00/parameter_search.eps}
+  \caption{Plots of \% change in melting from steady-state to peak, and the drop in La/Sm, for a step reduction in ice-sheet thickness from 2 to 0\,km, as a function of the model parameters; mantle potential temperature, up-welling rate, lithosphere viscosity, elastic thickness, and the width of the ice-sheet. In (a) and (b) the lithosphere viscosity is set to $10^{21.5}\rm\,Pa\,s$, the elastic thickness is 30\,km and the ice-sheet width is 100\,km. In parts (c) and (d) the up-welling rate is $30\rm\,mm\,yr^{-1}$, the mantle potential temperature is $1400\rm\,^{\circ}C$, and the ice-sheet width is 100\,km. In parts (e) and (f) the the up-welling rate is $30\rm\,mm\,yr^{-1}$, the mantle potential temperature is $1400\rm\,^{\circ}C$, and the lithosphere viscosity is $10^{21.5}\rm\,Pa\,s$.}
+  \label{fg:1}
+\end{figure*}
+
+In order to understand the model sensitivity, we explore the effect of ice sheet width, the rheology of the lithosphere and the rate of decompression (Figure \ref{fg:1}). We explore how changing these five parameters impacts the peak melt production and corresponding minimum La/Sm melt ratio averaged over the whole zone of partial melt due to a single step change in ice-sheet thickness from 2\,km to 0\,km. By varying the rate of up-welling and the mantle temperature while keeping the other three parameters fixed, we find that melt production increases with decreasing up-welling rate, as the displacement will have a larger effect (Figure \ref{fg:1}a and b). In 2-D simulations it has however been observed that the width of the zone of partial melting also changes with spreading rate, so countering this 1-D effect \cite{crowley-etal-2015}. Mantle temperature however does impact the peak volume and peak low in La/Sm (Figure \ref{fg:1}b). This is because a hotter mantle is more productive. The change in La/Sm reduces with increasing temperature because melt production extends to greater depth with increasing temperature. This damps the signal of increased shallow (high Sm) relative to deep (high La) melting induced by the change in surface load.
+
+The increase in melt production due to the step removal of the ice-sheet is much more sensitive to the mechanical properties of the lithosphere (Figure \ref{fg:1}c and d). If the elastic thickness and viscosity are low, then the quantity of melt generated is increased by a factor of 2500\,\% (Figure \ref{fg:1}c) because, for low elastic thickness and viscosity, there is a maximum in flexural displacement. Furthermore, by varying the wavelength of the ice-sheet, it can be seen that at wavelengths less than 200\,km the geometry of the ice-sheet strongly modulates the magnitude of the response, as the displacement due to unloading decreases with depth down the melting column as a exponential function of the wavelength (Figure \ref{fg:1}e and f). Hence small ice-sheets have a smaller impact on melt generation.
+
+\bibliography{../../../../ref}
+
+\end{document} 

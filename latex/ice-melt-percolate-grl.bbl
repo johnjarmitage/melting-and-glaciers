@@ -645,6 +645,38 @@ Jellinek, M\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Jenkins%
+\ \protect \BOthers {.}}{%
+Jenkins%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+jenkins-etal-2018}
+\APACinsertmetastar {%
+jenkins-etal-2018}%
+\begin{APACrefauthors}%
+Jenkins, J.%
+, Maclennan, J.%
+, Green, R\BPBI G.%
+, Cottaar, S.%
+, Deuss, A\BPBI F.%
+\BCBL {}\ \BBA {} White, R\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Crustal Formation on a Spreading Ridge Above a Mantle
+  Plume: Receiver Function Imaging of the {I}celandic Crust} {Crustal formation
+  on a spreading ridge above a mantle plume: Receiver function imaging of the
+  {I}celandic crust}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geopghysical Research}{123}{}{5190-5208}.
+\newblock
+\APACrefnote{doi: 10.1029/2017JB015121}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Jull%
 \ \BBA {} {McKenzie}%
 }{%
@@ -762,38 +794,6 @@ K{\"o}hler, P.%
 \APACjournalVolNumPages{Climate of the Past}{7}{}{473-486}.
 \newblock
 \APACrefnote{doi: 10.5194/cp-7-473-2011}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Kokfelt%
-, Hoernle%
-\BCBL {}\ \BBA {} Hauff%
-}{%
-Kokfelt%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2003}}%
-}]{%
-kokfelt-etal-2003}
-\APACinsertmetastar {%
-kokfelt-etal-2003}%
-\begin{APACrefauthors}%
-Kokfelt, T\BPBI F.%
-, Hoernle, K.%
-\BCBL {}\ \BBA {} Hauff, F.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Upwelling and melting of the {I}celand plume from radial
-  variation of {$^{238}$U} - {$^{230}$Th} disequilibria in postglacial volcanic
-  rocks} {Upwelling and melting of the {I}celand plume from radial variation of
-  {$^{238}$U} - {$^{230}$Th} disequilibria in postglacial volcanic
-  rocks}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Earth and Planetary Science Letters}{214}{}{176-186}.
-\newblock
-\APACrefnote{doi: 10.1016/S0012-821X(03)00306-6}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -922,35 +922,6 @@ Maclennan, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Maclennan%
-, Mc{K}enzie%
-\BCBL {}\ \BBA {} Gronv{\"o}ld%
-}{%
-Maclennan%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2001}}%
-}]{%
-maclennan-etal-2001}
-\APACinsertmetastar {%
-maclennan-etal-2001}%
-\begin{APACrefauthors}%
-Maclennan, J.%
-, Mc{K}enzie, D.%
-\BCBL {}\ \BBA {} Gronv{\"o}ld, K.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Plume-driven upwelling under central {I}celand}
-  {Plume-driven upwelling under central {I}celand}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Earth and Planetary Science Letters}{194}{}{67-82}.
-\newblock
-\APACrefnote{doi: 10.1016/S0012-821X(01)00553-2}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Mc{K}enzie%
 \ \BBA {} {O'Nions}%
 }{%
@@ -1036,6 +1007,38 @@ Nordahl, H.%
 \APACjournalVolNumPages{Arktos}{1}{}{1-13}.
 \newblock
 \APACrefnote{doi: 10.1007/s41063-015-0020-x}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pagli%
+\ \BBA {} Sigmundsson%
+}{%
+Pagli%
+\ \BBA {} Sigmundsson%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+pagli-2008}
+\APACinsertmetastar {%
+pagli-2008}%
+\begin{APACrefauthors}%
+Pagli, C.%
+\BCBT {}\ \BBA {} Sigmundsson, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Will present day glacier retreat increase volcanic
+  activity? Stress induced by recent glacier retreat and its effect on
+  magmatism at the {V}atnaj{\"o}kull ice cap, {I}celand} {Will present day
+  glacier retreat increase volcanic activity? stress induced by recent glacier
+  retreat and its effect on magmatism at the {V}atnaj{\"o}kull ice cap,
+  {I}celand}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Geophysical Research Letters}{35}{L09304}{}.
+\newblock
+\APACrefnote{doi: 10.1029/2008GL033510}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1218,6 +1221,70 @@ Rosenthal, A.%
 \APACjournalVolNumPages{Earth and Planetary Science Letters}{415}{}{77-87}.
 \newblock
 \APACrefnote{doi: 10.1016/j.epsl.2014.11.044}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Saal%
+, Hauri%
+, Langmuir%
+\BCBL {}\ \BBA {} Perfit%
+}{%
+Saal%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2002}}%
+}]{%
+saal-etal-2002}
+\APACinsertmetastar {%
+saal-etal-2002}%
+\begin{APACrefauthors}%
+Saal, A\BPBI E.%
+, Hauri, E\BPBI H.%
+, Langmuir, C\BPBI H.%
+\BCBL {}\ \BBA {} Perfit, M\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Vapour undersaturation in primitive mid-ocean-ridge
+  basalt and the volatile content of {E}arth’s upper mantle} {Vapour
+  undersaturation in primitive mid-ocean-ridge basalt and the volatile content
+  of {E}arth’s upper mantle}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature}{419}{}{451-455}.
+\newblock
+\APACrefnote{doi: 10.1038/nature01073}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schmidt%
+\ \protect \BOthers {.}}{%
+Schmidt%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+schmidt-etal-2013}
+\APACinsertmetastar {%
+schmidt-etal-2013}%
+\begin{APACrefauthors}%
+Schmidt, P.%
+, Lund, B.%
+, Hieronymus, C.%
+, Maclennan, J.%
+, Arnadottir, T.%
+\BCBL {}\ \BBA {} Pagli, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Effects of present-day deglaciation in {I}celand on
+  mantle melt production rates} {Effects of present-day deglaciation in
+  {I}celand on mantle melt production rates}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Geophysical Research}{118}{}{3366-3379}.
+\newblock
+\APACrefnote{doi: 10.1002/jgrb.50273}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1446,6 +1513,39 @@ Spratt, R\BPBI M.%
 \APACjournalVolNumPages{Climate of the Past}{12}{}{1079-1092}.
 \newblock
 \APACrefnote{doi: 10.5194/cp-12-1079-2016}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sternai%
+, Caricchi%
+, Castelltort%
+\BCBL {}\ \BBA {} Champagnac%
+}{%
+Sternai%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+sternai-etal-2016}
+\APACinsertmetastar {%
+sternai-etal-2016}%
+\begin{APACrefauthors}%
+Sternai, P.%
+, Caricchi, L.%
+, Castelltort, S.%
+\BCBL {}\ \BBA {} Champagnac, J\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deglaciation and glacial erosion: A joint control on
+  magma productivity by continental unloading} {Deglaciation and glacial
+  erosion: A joint control on magma productivity by continental
+  unloading}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Geophysical Research Letters}{43}{}{1632-1641}.
+\newblock
+\APACrefnote{doi: 10.1002/2015GL067285}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

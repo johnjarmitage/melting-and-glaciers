@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2018.11.6)  7 JAN 2019 17:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2019.1.15)  26 MAR 2019 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **ice-melt-percolate-grl-supplementary.tex
 (./ice-melt-percolate-grl-supplementary.tex
-LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 36 languages loaded.
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
 (./agutexSI2018.cls
 
 
@@ -111,7 +111,7 @@ Document Class: agutexSI2018 08/23/2018
 \pagefloatnumber=\count109
 \sizeoffloat=\box46
 \bogus=\count110
-\figinsert=\insert233
+\figinsert=\insert199
 \herebox=\box47
 \endfigbox=\box48
 \spanbox=\box49
@@ -199,25 +199,25 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 
 \titlesize=\dimen150
 ) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 91.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
@@ -263,17 +263,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [11] [12] [13] [14]) [15]
 File: ../figures/version05/supp-figure1.eps Graphic file (type eps)
  <../figures/version05/supp-figure1.eps>
-Overfull \hbox (37.98pt too wide) in paragraph at lines 279--280
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
-
- []
-
-File: ../figures/version05/supp-figure2.eps Graphic file (type eps)
-<../figures/version05/supp-figure2.eps>
 Overfull \hbox (37.98pt too wide) in paragraph at lines 286--287
 [][]
  []
@@ -283,17 +272,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 286--287
 
  []
 
-File: ../figures/version05/supp-figure5.eps Graphic file (type eps)
-<../figures/version05/supp-figure5.eps> [16] [17] [18]
-(./ice-melt-percolate-grl-supplementary.aux) ) 
-Here is how much of TeX's memory you used:
- 2269 strings out of 494186
- 29081 string characters out of 6159775
- 96505 words of memory out of 5000000
- 5681 multiletter control sequences out of 15000+600000
- 13932 words of font info for 48 fonts, out of 8000000 for 9000
- 416 hyphenation exceptions out of 8191
- 30i,7n,29p,1607b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+File: ../figures/version05/supp-figure2.eps Graphic file (type eps)
+<../figures/version05/supp-figure2.eps>
+Overfull \hbox (37.98pt too wide) in paragraph at lines 293--294
+[][]
+ []
 
-Output written on ice-melt-percolate-grl-supplementary.dvi (18 pages, 39992 byt
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+File: ../figures/version05/supp-figure5.eps Graphic file (type eps)
+<../figures/version05/supp-figure5.eps>
+File: ../figures/version05/supp-figureN.eps Graphic file (type eps)
+
+<../figures/version05/supp-figureN.eps>
+Overfull \hbox (122.295pt too wide) in paragraph at lines 307--308
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+LaTeX Warning: Float too large for page by 241.83913pt on input line 310.
+
+[16] [17] [18] [19] (./ice-melt-percolate-grl-supplementary.aux) ) 
+Here is how much of TeX's memory you used:
+ 2323 strings out of 494924
+ 30069 string characters out of 6180768
+ 96618 words of memory out of 5000000
+ 5668 multiletter control sequences out of 15000+600000
+ 13932 words of font info for 48 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 30i,7n,29p,1607b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on ice-melt-percolate-grl-supplementary.dvi (19 pages, 41288 byt
 es).

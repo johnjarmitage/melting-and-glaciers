@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.15)  25 MAR 2019 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.15)  26 MAR 2019 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -299,8 +299,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 15.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 20.
 
 Overfull \hbox (8.29338pt too wide) in paragraph at lines 24--25
 []\OT1/cmr/m/n/10 We com-bine a new his-tory of Ice-landic ice-cover with a for
@@ -382,14 +380,6 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
 (Font)              size <10.95> substituted on input line 33.
 
 
-Package natbib Warning: Citation `pagli-2008' on page 2 undefined on input line
- 35.
-
-
-Package natbib Warning: Citation `schmidt-etal-2013' on page 2 undefined on inp
-ut line 35.
-
-
 Overfull \hbox (1.93228pt too wide) in paragraph at lines 35--36
 []\OT1/cmr/m/n/10 Evidence from sev-eral tec-tonic set-tings in-di-cates that g
 laciated vol-canic sys-tems 
@@ -462,79 +452,76 @@ uce sig-nif-i-cant short-term fluc-
  []
 
 
-Overfull \hbox (2.71014pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 tu-a-tions in mag-matic out-put (Jull & McKen-zie, 1996; \OT1/c
-mr/bx/n/10 ?\OT1/cmr/m/n/10 ; \OT1/cmr/bx/n/10 ?\OT1/cmr/m/n/10 ), sim-i-lar to
- those hy-poth-e- 
+Overfull \hbox (26.96033pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 tu-a-tions in mag-matic out-put (Jull & McKen-zie, 1996; Pagli 
+& Sig-munds-son, 2008; Schmidt 
  []
 
 
-Overfull \hbox (9.79344pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 sised to oc-cur at ocean ridges due to sea-level vari-a-tion (B
-ur-ley & Katz, 2015; Crow-ley, 
+Overfull \hbox (14.18233pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 et al.[], 2013), sim-i-lar to those hy-poth-e-sised to oc-cur a
+t ocean ridges due to sea-level vari- 
  []
 
 
-Overfull \hbox (8.48805pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 Katz, Huy-bers, Lang-muir, & Park, 2015; Huy-bers & Lang-muir, 
-2009; Lund & Asi-mow, 
+Overfull \hbox (12.21027pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 a-tion (Bur-ley & Katz, 2015; Crow-ley, Katz, Huy-bers, Lang-mu
+ir, & Park, 2015; Huy-bers 
  []
 
 
-Overfull \hbox (12.26587pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 2011). Car-bon read-ily par-ti-tions into mag-mas dur-ing par-t
-ial melt-ing (Rosen-thal, Hauri, 
+Overfull \hbox (13.2103pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 & Lang-muir, 2009; Lund & Asi-mow, 2011). Car-bon read-ily par-
+ti-tions into mag-mas dur- 
  []
 
 
-Overfull \hbox (9.00182pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 & Hirschmann, 2015) and is re-leased as a CO$[]$ rich fluid/vap
-our as the magma as-cends 
+Overfull \hbox (19.61295pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 ing par-tial melt-ing (Rosen-thal, Hauri, & Hirschmann, 2015) a
+nd is re-leased as a CO$[]$ rich 
  []
 
 
-Overfull \hbox (12.48808pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 through the crust, mak-ing vol-can-ism the pri-mary path-way fo
-r trans-port-ing car-bon from 
+Overfull \hbox (1.37692pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 fluid/vapour as the magma as-cends through the crust, mak-ing v
+ol-can-ism the pri-mary 
  []
 
 
-Overfull \hbox (4.09901pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 the Earth's man-tle to the at-mo-sphere (Das-gupta & Hirschmann
-, 2010). How-ever, car- 
+Overfull \hbox (9.98802pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 path-way for trans-port-ing car-bon from the Earth's man-tle to
+ the at-mo-sphere (Das-gupta 
  []
 
 
-Overfull \hbox (19.29356pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 bon does not en-ter the melt uni-formly dur-ing par-tial melt-i
-ng and is con-cen-trated in early 
+Overfull \hbox (4.0435pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 & Hirschmann, 2010). How-ever, car-bon does not en-ter the melt
+ uni-formly dur-ing par- 
  []
 
 
-Overfull \hbox (3.68237pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 formed magma and does not en-ter the melt uni-formly over time.
- There-fore the ex-tent 
+Overfull \hbox (16.46017pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 tial melt-ing and is con-cen-trated in early formed magma and d
+oes not en-ter the melt uni- 
  []
 
 
-Overfull \hbox (15.64076pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 to which glacially driven changes in pri-mary magma gen-er-a-ti
-on al-ter the flux of CO$[]$ de- 
+Overfull \hbox (28.43243pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 formly over time. There-fore the ex-tent to which glacially dri
+ven changes in pri-mary magma 
  []
 
 
-Overfull \hbox (12.46013pt too wide) in paragraph at lines 35--36
-\OT1/cmr/m/n/10 pends on where in the melt-ing col-umn melt pro-duc-tion is en-
-hanced (or sup-pressed), the 
+Overfull \hbox (7.83516pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 gen-er-a-tion al-ter the flux of CO$[]$ de-pends on where in th
+e melt-ing col-umn melt pro-duc- 
  []
 
 
-Package natbib Warning: Citation `saal-etal-2002' on page 2 undefined on input 
-line 37.
-
-
-Package natbib Warning: Citation `easton-etal-2015' on page 2 undefined on inpu
-t line 37.
+Overfull \hbox (12.07121pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10 tion is en-hanced (or sup-pressed), the rate of melt trans-port
+, and the his-tory of ice sheet 
+ []
 
 
 Overfull \hbox (2.14067pt too wide) in paragraph at lines 37--38
@@ -561,57 +548,69 @@ i-lar be-haviour dur-ing de-com-
  []
 
 
-Overfull \hbox (0.14064pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 pres-sion melt-ing (\OT1/cmr/bx/n/10 ?\OT1/cmr/m/n/10 ), and as
- such Nb com-po-si-tions can be used to gauge the quan-tity 
+Overfull \hbox (7.23799pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 pres-sion melt-ing (Saal, Hauri, Lang-muir, & Per-fit, 2002), a
+nd as such Nb com-po-si-tions 
  []
 
 
-Overfull \hbox (2.44623pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 of CO$[]$ erupted. In Ice-land there are just over 300 pub-lish
-ed dated anal-y-sis of the Nb 
+Overfull \hbox (22.89067pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 can be used to gauge the quan-tity of CO$[]$ erupted. In Ice-la
+nd there are just over 300 pub- 
  []
 
 
-Overfull \hbox (12.54343pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 com-po-si-tion of Pleis-tocene lavas (Gee, Tay-lor, Thir-wall, 
-& Mur-ton, 1998; \OT1/cmr/bx/n/10 ?\OT1/cmr/m/n/10 ). This is ar- 
+Overfull \hbox (23.11304pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 lished dated anal-y-sis of the Nb com-po-si-tion of Pleis-tocen
+e lavas (Ea-son, Sin-ton, Gronv^^?old, 
  []
 
 
-Overfull \hbox (1.18236pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 guably the most com-plete geo-chem-i-cal record within a re-gio
-n that ex-pe-ri-enced sig-nif- 
+Overfull \hbox (10.22404pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 & Kurz, 2015; Gee, Tay-lor, Thir-wall, & Mur-ton, 1998). This i
+s ar-guably the most com- 
  []
 
 
-Overfull \hbox (16.4323pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 i-cant Pleis-tocene deglacia-tion. In this study we take a new 
-ap-proach, and use a high res- 
+Overfull \hbox (20.76567pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 plete geo-chem-i-cal record within a re-gion that ex-pe-ri-ence
+d sig-nif-i-cant Pleis-tocene deglacia- 
  []
 
 
-Overfull \hbox (16.01575pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 o-lu-tion model of ice sheet his-tory to drive a for-ward model
- of melt gen-er-a-tion and trans- 
+Overfull \hbox (13.51566pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 tion. In this study we take a new ap-proach, and use a high res
+-o-lu-tion model of ice sheet 
  []
 
 
-Overfull \hbox (13.18239pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 port. We pre-dict the change in erup-tion rates and melt com-po
--si-tion as a func-tion of the 
+Overfull \hbox (21.01575pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 his-tory to drive a for-ward model of melt gen-er-a-tion and tr
+ans-port. We pre-dict the change 
  []
 
 
-Overfull \hbox (8.59906pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 chang-ing sur-face load, and also val-i-date the pre-dicted mel
-t poros-ity against the seis-mic 
+Overfull \hbox (4.32129pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 in erup-tion rates and melt com-po-si-tion as a func-tion of th
+e chang-ing sur-face load. We 
  []
 
 
-Overfull \hbox (14.90457pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/10 struc-ture im-aged be-low Ice-land. We sub-se-quently ex-plore 
-un-der what con-di-tions cli-mate 
+Overfull \hbox (9.68239pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 val-i-date the model pre-dic-tions against steady state melt th
+ick-ness and val-i-date the pre- 
+ []
+
+
+Overfull \hbox (21.15456pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 dicted melt poros-ity against the seis-mic struc-ture im-aged b
+e-low Ice-land. We sub-se-quently 
+ []
+
+
+Overfull \hbox (0.3213pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 ex-plore un-der what con-di-tions cli-mate and mag-ma-tism migh
+t be re-lated, and the im- 
  []
 
 
@@ -913,683 +912,712 @@ Overfull \hbox (2.34901pt too wide) in paragraph at lines 48--49
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1552) has occurred while \output is active []
 
  [3]
-Overfull \hbox (12.9324pt too wide) in paragraph at lines 52--53
+Overfull \hbox (12.9324pt too wide) in paragraph at lines 53--54
 []\OT1/cmr/m/n/10 We force our melt model with the 120ka glacial his-tory af-te
 r a 5 Myr model wind- 
  []
 
 
-Overfull \hbox (7.04347pt too wide) in paragraph at lines 52--53
+Overfull \hbox (7.04347pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 up to steady state (model M1, Fig-ure 2[]b) and us-ing a sin-gl
 e value for the ice thick-ness 
  []
 
 
-Overfull \hbox (6.04333pt too wide) in paragraph at lines 52--53
+Overfull \hbox (6.04333pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 at each time-step, there-fore ne-glect-ing the ef-fects of the 
 dis-tal parts of the ice sheet on 
  []
 
 
-Overfull \hbox (22.08527pt too wide) in paragraph at lines 52--53
+Overfull \hbox (22.08527pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 melt-ing be-neath the rift mar-gins. The model pre-dicts peaks 
 in mag-matic out-put and CO$[]$ 
  []
 
 
-Overfull \hbox (7.68242pt too wide) in paragraph at lines 52--53
+Overfull \hbox (7.68242pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 flux as pres-sure changes due to load-ing and un-load-ing im-pa
 ct the melt pro-duc-tion rate 
  []
 
 
-Overfull \hbox (11.5434pt too wide) in paragraph at lines 52--53
+Overfull \hbox (11.5434pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 (Fig-ure 2[]). The re-sponse of the mag-matic sys-tem to change
 s in ice cover varies de-pend- 
  []
 
 
-Overfull \hbox (13.18228pt too wide) in paragraph at lines 52--53
+Overfull \hbox (13.18228pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 ing on the man-tle up-welling rate, the rate-of-change in ice s
 heet thick-ness, and the prior 
  []
 
 
-Overfull \hbox (29.50185pt too wide) in paragraph at lines 52--53
+Overfull \hbox (5.47401pt too wide) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 ice sheet his-tory. Glacial load-ing sup-presses melt pro-duc-t
-ion, lead-ing to a de-cline in magma 
+ion (Jull & McKen-zie, 1996), 
  []
 
 
-Overfull \hbox (16.23799pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10 sup-ply (see Sup-ple-men-tary Ma-te-rial, Fig-ure S3). For ex-a
-m-ple dur-ing the pe-riod be-tween 
+Overfull \hbox (9.79353pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 lead-ing to a de-cline in magma sup-ply (see Sup-ple-men-tary M
+a-te-rial, Fig-ure S3). For ex- 
  []
 
 
-Overfull \hbox (7.37685pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10 35 and 15ka, the growth of the ice sheet re-duces erup-tion rat
-es be-low 5km of melt per 
+Overfull \hbox (13.43234pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 am-ple dur-ing the pe-riod be-tween 35 and 15ka, the growth of 
+the ice sheet re-duces erup- 
  []
 
 
-Overfull \hbox (4.79349pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10 Myr (Fig-ure 2[]c). The re-cov-ery from this load-ing oc-curs i
-ni-tially in the deep-est part of 
+Overfull \hbox (4.1824pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 tion rates be-low 5km of melt per Myr (Fig-ure 2[]c). The re-co
+v-ery from this load-ing oc- 
  []
 
 
-Overfull \hbox (14.5156pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10 the sys-tem as this re-gion is per-turbed the least. Re-cov-ery
- is also faster if the man-tle up- 
+Overfull \hbox (11.12672pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 curs ini-tially in the deep-est part of the sys-tem as this re-
+gion is per-turbed the least. Re- 
  []
 
 
-Overfull \hbox (17.11281pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10 welling rate is higher, where an up-welling rate of $20 mm yr[]
-$ is more re-spon-sive than the 
+Overfull \hbox (52.39064pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 cov-ery is also faster if the man-tle up-welling rate is higher
+, where an up-welling rate of $20 mm yr[]$ 
  []
 
 
-Overfull \hbox (11.52959pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10 equiv-a-lent $10 mm yr[]$ model (Fig-ure 2[]b). Higher rates of
- change in sur-face load-ing will 
+Overfull \hbox (3.05733pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 is more re-spon-sive than the equiv-a-lent $10 mm yr[]$ model (
+Fig-ure 2[]b). Higher rates of 
  []
 
 
-Overfull \hbox (13.73807pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10 im-pact melt pro-duc-tion more strongly such that small mag-ni-
-tude but rapid deglacia-tion 
+Overfull \hbox (21.57133pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 change in sur-face load-ing will im-pact melt pro-duc-tion more
+ strongly such that small mag- 
  []
 
 
-Overfull \hbox (17.48799pt too wide) in paragraph at lines 52--53
-\OT1/cmr/m/n/10 events, for ex-am-ple at $\OMS/cmsy/m/n/10 ^^X$\OT1/cmr/m/n/10 
-85ka, have a rel-a-tively large ef-fect on erup-tion rates (Fig-ure 2[]c).  
+Overfull \hbox (3.07135pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/10 ni-tude but rapid deglacia-tion events, for ex-am-ple at $\OMS/
+cmsy/m/n/10 ^^X$\OT1/cmr/m/n/10 85ka, have a rel-a-tively large ef- 
  []
 
 
-Overfull \hbox (6.26566pt too wide) in paragraph at lines 54--55
+Overfull \hbox (6.26566pt too wide) in paragraph at lines 55--56
 []\OT1/cmr/m/n/10 The im-pact of deglacia-tion events is mod-u-lated by the up-
 welling rate of the solid 
  []
 
 
-Overfull \hbox (6.1824pt too wide) in paragraph at lines 54--55
+Overfull \hbox (6.1824pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 man-tle be-cause the up-welling rate con-trols the back-ground 
 pro-duc-tiv-ity of the melt-ing 
  []
 
 
-Overfull \hbox (7.89063pt too wide) in paragraph at lines 54--55
+Overfull \hbox (7.89063pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 model. At slower up-welling rates, i.e. $10 mm yr[]$, some pe-r
 i-ods of deglacia-tion are not 
  []
 
 
-Overfull \hbox (17.29356pt too wide) in paragraph at lines 54--55
+Overfull \hbox (17.29356pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 recorded in the flux of magma erupted. An ex-am-ple of this is 
 the warm-ing event at 60ka 
  []
 
 
-Overfull \hbox (0.77948pt too wide) in paragraph at lines 54--55
+Overfull \hbox (0.77948pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 (Fig-ure 2[]), where the $10 mm yr[]$ up-welling model pro-duce
 s no re-sponse in ei-ther the 
  []
 
 
-Overfull \hbox (3.68228pt too wide) in paragraph at lines 54--55
+Overfull \hbox (3.68228pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 erup-tion rate or CO$[]$ flux. If how-ever up-welling is more r
 apid, $20 mm yr[]$, then there 
  []
 
 
-Overfull \hbox (5.54341pt too wide) in paragraph at lines 54--55
+Overfull \hbox (5.54341pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 is a clear pulse in melt erup-tion rate (Fig-ure 2[]). For a mo
 re pro-duc-tive sce-nario, there 
  []
 
 
-Overfull \hbox (8.93231pt too wide) in paragraph at lines 54--55
+Overfull \hbox (8.93231pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 is in-creased shal-low melt-ing. The dis-place-ment im-posed by
  the flex-u-ral re-sponse to un- 
  []
 
 
-Overfull \hbox (4.09903pt too wide) in paragraph at lines 54--55
+Overfull \hbox (4.09903pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 load-ing dis-si-pates with depth. There-fore, if melt-ing is pr
 o-duc-tive and hence shal-low it 
  []
 
 
-Overfull \hbox (15.12674pt too wide) in paragraph at lines 54--55
+Overfull \hbox (15.12674pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 will feel the ef-fects of the un-load-ing to a greater ex-tent 
 when com-pared to a less pro-duc- 
  []
 
 
-Overfull \hbox (11.51572pt too wide) in paragraph at lines 54--55
+Overfull \hbox (11.51572pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 tive melt-ing sys-tem. Fur-ther-more, when pro-duc-tiv-ity is l
 ow, the poros-ity is low and the 
  []
 
 
-Overfull \hbox (10.18228pt too wide) in paragraph at lines 54--55
+Overfull \hbox (10.18228pt too wide) in paragraph at lines 55--56
 \OT1/cmr/m/n/10 rate of ver-ti-cal melt flow is slow such that a pulse in melt 
 pro-duc-tion will not reach the 
  []
 
 
-Overfull \hbox (23.738pt too wide) in paragraph at lines 56--57
-[]\OT1/cmr/m/n/10 Our mod-els in-di-cate that deglaciation-enhanced melt pro-du
-c-tiv-ity is not only a func- 
+Overfull \hbox (19.33517pt too wide) in paragraph at lines 57--58
+[]\OT1/cmr/m/n/10 The mag-ni-tude of CO$[]$ flux peaks are not lin-early re-lat
+ed to the mag-ni-tude in erup- 
  []
 
 
-Overfull \hbox (4.26572pt too wide) in paragraph at lines 56--57
-\OT1/cmr/m/n/10 tion of the rate of deglacia-tion, but is strongly de-pen-dent 
-on the pre-ced-ing glacial his- 
+Overfull \hbox (14.47401pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 tion rates (Fig-ure 2[]d). For ex-am-ple, in the $20 mm yr[]$ u
+p-welling rate model, the largest 
  []
 
 
-Overfull \hbox (8.57118pt too wide) in paragraph at lines 56--57
-\OT1/cmr/m/n/10 tory. For ex-am-ple, in the $20 mm yr[]$ up-welling rate model,
- the largest CO$[]$ peak is es- 
+Overfull \hbox (14.30751pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 CO$[]$ peak is es-ti-mated to oc-cur at $\OMS/cmsy/m/n/10 ^^X$\
+OT1/cmr/m/n/10 60ka and not dur-ing the vol-u-met-ri-cally larger mag- 
  []
 
 
-Overfull \hbox (8.0992pt too wide) in paragraph at lines 56--57
-\OT1/cmr/m/n/10 ti-mated to oc-cur at $\OMS/cmsy/m/n/10 ^^X$\OT1/cmr/m/n/10 60k
-a and not dur-ing the vol-u-met-ri-cally larger mag-matic pulse at 
+Overfull \hbox (3.5156pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 matic pulse at the end of the Pleis-tocene (Fig-ure 2[]d). This
+ dif-fer-ence is be-cause when 
  []
 
 
-Overfull \hbox (18.4879pt too wide) in paragraph at lines 56--57
-\OT1/cmr/m/n/10 the end of the Pleis-tocene (Fig-ure 2[]d). This dif-fer-ence i
-s be-cause when the $\OMS/cmsy/m/n/10 ^^X$\OT1/cmr/m/n/10 60ka warm- 
+Overfull \hbox (20.65462pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 the $\OMS/cmsy/m/n/10 ^^X$\OT1/cmr/m/n/10 60ka warm-ing oc-curr
+ed, the melt was en-riched in car-bon due to the pre-ced-ing rapid 
  []
 
 
-Overfull \hbox (32.01573pt too wide) in paragraph at lines 56--57
-\OT1/cmr/m/n/10 ing oc-curred, the melt was en-riched in car-bon due to the pre
--ced-ing rapid glacia-tion. Magma 
+Overfull \hbox (19.57127pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 glacia-tion. Magma sup-plied from the man-tle dur-ing the Late-
+Pleistocene pulse were more 
  []
 
 
-Overfull \hbox (5.98782pt too wide) in paragraph at lines 56--57
-\OT1/cmr/m/n/10 sup-plied from the man-tle dur-ing the Late-Pleistocene pulse w
-ere more de-pleted in car- 
+Overfull \hbox (7.3213pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 de-pleted in car-bon com-pared to those in the 60ka event. The 
+im-pli-ca-tion of this re-sult 
  []
 
 
-Overfull \hbox (13.54335pt too wide) in paragraph at lines 60--61
-[]\OT1/cmr/m/n/10 There are two dis-tinct late Pleis-tocene mag-matic pulses, s
-ep-a-rated by the Younger 
+Overfull \hbox (16.11295pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 is that vol-u-met-ri-cally small vol-canic events might have ju
+st as a strong in-flu-ence on CO$[]$ 
  []
 
 
-Overfull \hbox (11.87677pt too wide) in paragraph at lines 60--61
-\OT1/cmr/m/n/10 Dryas cold pe-riod (Fig-ure 3[]a and b). How-ever, for the mode
-l M2 ice sheet his-tory there 
+Overfull \hbox (12.59904pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 de-gassing as the more sig-nif-i-cant pe-ri-ods of vol-canic er
+up-tions, and this is de-pen-dent on 
  []
 
 
-Overfull \hbox (31.25171pt too wide) in paragraph at lines 60--61
-\OT1/cmr/m/n/10 are three pulses in CO$[]$ flux at the end of the Pleis-tocene,
- due to the faster ice sheet growth 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Overfull \hbox (11.25189pt too wide) in paragraph at lines 61--62
+[]\OT1/cmr/m/n/10 During the last 40ka, our model sug-gest that CO$[]$ flux is 
+highly de-pen-dent on the 
  []
 
 
-Overfull \hbox (5.43245pt too wide) in paragraph at lines 60--61
-\OT1/cmr/m/n/10 en-ter-ing the LGM from 35 to 25ka in this model (Fig-ure 3[]a 
-and e). This peak in CO$[]$ 
+Overfull \hbox (0.9323pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 glacial forc-ing. There are two dis-tinct late Pleis-tocene mag
+-matic pulses, sep-a-rated by 
  []
 
 
-Overfull \hbox (11.04358pt too wide) in paragraph at lines 60--61
-\OT1/cmr/m/n/10 flux is be-cause the small mag-ni-tude but rapid deglacia-tions
- af-ter 25ka tap melts rich in 
+Overfull \hbox (9.29343pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 the Younger Dryas cold pe-riod (Fig-ure 3[]a and b). How-ever, 
+for the model M2 ice sheet 
  []
 
-[4]
-Overfull \hbox (11.40445pt too wide) in paragraph at lines 62--63
+
+Overfull \hbox (16.27951pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 his-tory there are three pulses in CO$[]$ flux at the end of th
+e Pleis-tocene, due to the faster 
+ []
+
+
+Overfull \hbox (21.3074pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 ice sheet growth en-ter-ing the LGM from 35 to 25ka in this mod
+el (Fig-ure 3[]a and e). This 
+ []
+
+
+Overfull \hbox (11.27974pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 peak in CO$[]$ flux is be-cause the small mag-ni-tude but rapid
+ deglacia-tions af-ter 25ka tap 
+ []
+
+
+Overfull \hbox (11.40445pt too wide) in paragraph at lines 63--64
 []\OT1/cmr/m/n/10 The ob-served time se-ries of in-com-pat-i-ble trace el-e-men
 t con-cen-tra-tions in Ice-landic 
  []
 
 
-Overfull \hbox (16.65459pt too wide) in paragraph at lines 62--63
+Overfull \hbox (4.98788pt too wide) in paragraph at lines 63--64
 \OT1/cmr/m/n/10 mag-mas and ice sheet his-tory have been sug-gested to be stron
-gly as-so-ci-ated (Ea-son, Sin- 
+gly as-so-ci-ated (Ea-son et 
  []
 
 
-Overfull \hbox (15.1824pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 ton, Gronv^^?old, & Kurz, 2015; Gee et al.[], 1998; Jull & McKe
-n-zie, 1996; Maclen-nan et al.[], 
+Overfull \hbox (11.44629pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 al.[], 2015; Gee et al.[], 1998; Jull & McKen-zie, 1996; Maclen
+-nan et al.[], 2002; Sin-ton et al.[], 
  []
 
 
-Overfull \hbox (10.86292pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 2002; Sin-ton et al.[], 2005). Of these stud-ies Gee et al.[] (
-1998) and Ea-son et al.[] (2015) re- 
+Overfull \hbox (12.27957pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 2005). Of these stud-ies Gee et al.[] (1998) and Ea-son et al.[
+] (2015) re-port on the Nb com- 
  []
 
 
-Overfull \hbox (6.59906pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 port on the Nb com-po-si-tion of lavas erupted and give age ran
-ges for the erupted lavas. 
+Overfull \hbox (6.71017pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 po-si-tion of lavas erupted and give age ranges for the erupted
+ lavas. Dat-ing lava flow in 
  []
 
 
-Overfull \hbox (15.54346pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 Dat-ing lava flow in Ice-land is com-plex given the lack of re-
-li-able mark-ers from which ages 
+Overfull \hbox (5.12677pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 Ice-land is com-plex given the lack of re-li-able mark-ers from
+ which ages can be ob-tained. 
  []
 
 
-Overfull \hbox (11.82133pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 can be ob-tained. This means that ages are in-stead typ-i-cally
- taken from the mor-phol-ogy 
+Overfull \hbox (21.59914pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 This means that ages are in-stead typ-i-cally taken from the mo
+r-phol-ogy and tephrochronol- 
  []
 
 
-Overfull \hbox (12.87685pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 and tephrochronol-ogy of erupted flows (Maclen-nan et al.[], 20
-02), which is sub-jec-tive and 
+Overfull \hbox (4.21013pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 ogy of erupted flows (Maclen-nan et al.[], 2002), which is sub-
+jec-tive and open to de-bate. 
  []
 
 
-Overfull \hbox (16.62679pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 open to de-bate. We there-fore must take the age ranges for the
- Nb com-po-si-tions re-ported 
+Overfull \hbox (3.6406pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 We there-fore must take the age ranges for the Nb com-po-si-tio
+ns re-ported by Gee et al.[] 
  []
 
 
-Overfull \hbox (16.25172pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 by Gee et al.[] (1998) and  citeeason-etal-2015 as in-dica-tive
-. We there-fore chose to bin the 
+Overfull \hbox (28.34912pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 (1998) and Ea-son et al.[] (2015) as in-dica-tive. We there-for
+e chose to bin the ages into 2.5kyr 
  []
 
 
-Overfull \hbox (9.76593pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 ages into 2.5kyr in-ter-vals from 0 to 17.5ka and then at 5kyr 
-in-ter-vals (Fig-ure 3[]c). The 
+Overfull \hbox (8.04364pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 in-ter-vals from 0 to 17.5ka and then at 5kyr in-ter-vals (Fig-
+ure 3[]c). The re-duc-tion in Nb 
  []
 
 
-Overfull \hbox (9.15459pt too wide) in paragraph at lines 62--63
-\OT1/cmr/m/n/10 re-duc-tion in Nb com-po-si-tions plot-ted is in line with the 
-more se-lec-tive La and Sm data 
+Overfull \hbox (12.349pt too wide) in paragraph at lines 63--64
+\OT1/cmr/m/n/10 com-po-si-tions plot-ted is in line with the trends ob-served w
+ithin th more se-lec-tive La and 
  []
 
 
-Overfull \hbox (14.5989pt too wide) in paragraph at lines 64--65
+Overfull \hbox (14.5989pt too wide) in paragraph at lines 65--66
 []\OT1/cmr/m/n/10 We find that the pre-dicted change in Nb, which be-haves in a
  sim-i-lar way to C dur- 
  []
 
 
-Overfull \hbox (6.57132pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/10 ing man-tle melt-ing (Rosen-thal et al.[], 2015), from all our 
-mod-els fit within the range of 
+Overfull \hbox (26.82138pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 ing man-tle melt-ing (Rosen-thal et al.[], 2015; Saal et al.[],
+ 2002), from all our mod-els fit within 
  []
 
 
-Overfull \hbox (13.48788pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/10 the ob-ser-va-tions (Fig-ure 3[]c). The M2 model gives the stro
-ngest sig-na-ture in Nb con-cen- 
+Overfull \hbox (5.18234pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 the range of the ob-ser-va-tions (Fig-ure 3[]c). The M2 model g
+ives the strongest sig-na-ture 
  []
 
 
-Overfull \hbox (0.59901pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/10 tra-tions of deglacia-tion dur-ing the end of the Pleis-tocene,
- while the sig-na-ture is more 
+Overfull \hbox (8.26569pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 in Nb con-cen-tra-tions of deglacia-tion dur-ing the end of the
+ Pleis-tocene, while the sig-na- 
  []
 
 
-Overfull \hbox (1.82121pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/10 sub-dued in the M1 ice sheet model (Fig-ure 3[]c). The 1D for-w
-ard model used is highly 
+Overfull \hbox (17.71008pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 ture is more sub-dued in the M1 ice sheet model (Fig-ure 3[]c).
+ The 1D for-ward model used 
  []
 
 
-Overfull \hbox (17.93237pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/10 ide-alised, and yet the agree-ment be-tween the ob-ser-va-tions
- and model is en-cour-ag-ing, and 
+Overfull \hbox (16.04344pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 is highly ide-alised, and yet the agree-ment be-tween the ob-se
+r-va-tions and model is en-cour- 
  []
 
 
-Overfull \hbox (10.7379pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/10 sug-gests the com-po-si-tional change ob-served in lavas erupte
-d dur-ing the late-Pleistocene 
+Overfull \hbox (10.82127pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 ag-ing, and sug-gests the com-po-si-tional change ob-served in 
+lavas erupted dur-ing the late- 
  []
 
 
-Overfull \hbox (26.33516pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/10 to early Holocene is due to rapid deglacia-tion (Ea-son et al.[
-], 2015; Gee et al.[], 1998; Maclen- 
+Overfull \hbox (14.30734pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 Pleistocene to early Holocene is due to rapid deglacia-tion (Ea
+-son et al.[], 2015; Gee et al.[], 
  []
 
 
-Overfull \hbox (16.71016pt too wide) in paragraph at lines 64--65
-\OT1/cmr/m/n/10 nan et al.[], 2002; Sin-ton et al.[], 2005). This im-plies that
- the ob-served change in melt com- 
+Overfull \hbox (15.3213pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 1998; Maclen-nan et al.[], 2002; Sin-ton et al.[], 2005). This 
+im-plies that the ob-served change 
  []
 
 
-Package natbib Warning: Citation `jenkins-etal-2017' on page 5 undefined on inp
-ut line 66.
+Overfull \hbox (6.15459pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/10 in melt com-po-si-tion is due to change in ice sheet load-ing a
+nd that the pre-deglaciation 
+ []
 
 
-Overfull \hbox (6.32118pt too wide) in paragraph at lines 66--67
+Overfull \hbox (6.32118pt too wide) in paragraph at lines 67--68
 []\OT1/cmr/m/n/10 The 1D col-umn model will un-der-es-ti-mate the im-pact of ch
 ange in deep melt pro- 
  []
 
 
-Overfull \hbox (11.71014pt too wide) in paragraph at lines 66--67
+Overfull \hbox (11.71014pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 duc-tiv-ity, as it can-not cap-ture the deep wings of the zone 
 of par-tial melt-ing. To ex-plore 
  []
 
 
-Overfull \hbox (18.4323pt too wide) in paragraph at lines 66--67
+Overfull \hbox (18.4323pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 the im-pact of this we force a se-ries of 1D mod-els with the v
 er-ti-cal flow taken from steady 
  []
 
 
-Overfull \hbox (14.07132pt too wide) in paragraph at lines 66--67
+Overfull \hbox (14.07132pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 state cor-ner flow per-turbed by the flex-u-ral re-sponse of th
 e deglacia-tion of a 200km wide 
  []
 
 
-Overfull \hbox (6.77948pt too wide) in paragraph at lines 66--67
+Overfull \hbox (6.77948pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 ice sheet. The half spread-ing rate is as-sumed to be $10 mm yr
 []$, and the man-tle po-ten- 
  []
 
 
-Overfull \hbox (3.05734pt too wide) in paragraph at lines 66--67
+Overfull \hbox (3.05734pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 tial tem-per-a-ture is $1450 []C$. Melt trav-els ver-ti-cally f
 rom the zone of par-tial melt-ing in 
  []
 
 
-Overfull \hbox (6.79355pt too wide) in paragraph at lines 66--67
+Overfull \hbox (6.79355pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 columns at 0 to 80km from the rift axis (Fig-ure 4[]). The stea
 dy state thick-ness of melt 
  []
 
 
-Overfull \hbox (17.62688pt too wide) in paragraph at lines 66--67
+Overfull \hbox (17.62688pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 erupted at the sur-face of the sim-pli-fied 2D model is 15km, a
 nd glacial forc-ing causes this 
  []
 
 
-Overfull \hbox (11.07132pt too wide) in paragraph at lines 66--67
+Overfull \hbox (11.07132pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 thick-ness to vary around this value by the or-der of 10km ex-c
 ept for a large spike at the 
  []
 
 
-Overfull \hbox (10.82127pt too wide) in paragraph at lines 66--67
+Overfull \hbox (21.36298pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 LGM (Fig-ure NEW). The crust of Ice-land varies in thick-ness f
-rom 20 to 40km (\OT1/cmr/bx/n/10 ?\OT1/cmr/m/n/10 ), and 
+rom 20 to 40km (e.g. Jenk- 
  []
 
 
-Overfull \hbox (13.40456pt too wide) in paragraph at lines 66--67
-\OT1/cmr/m/n/10 there-fore a model steady state thick-ness of 15km is a rea-son
--able lower end-member pre- 
+Overfull \hbox (2.82129pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/10 ins et al.[], 2018), and there-fore a model steady state thick-
+ness of 15km is a rea-son-able 
  []
 
 
-Overfull \hbox (2.6545pt too wide) in paragraph at lines 68--69
+Overfull \hbox (7.849pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/10 lower end-member pre-dic-tion given that the crust is made of e
+x-tru-sions and in-tru-sions.  
+ []
+
+
+Overfull \hbox (2.6545pt too wide) in paragraph at lines 69--70
 []\OT1/cmr/m/n/10 After glacial per-tur-ba-tion we find that in the cen-tral zo
 ne, from the ridge cen-tre 
  []
 
 
-Overfull \hbox (4.613pt too wide) in paragraph at lines 68--69
+Overfull \hbox (4.613pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 to 40km dis-tance, the trend in Nb and CO$[]$ flux is rel-a-tiv
 ely sim-i-lar, with a re-duc-tion 
  []
 
 
-Overfull \hbox (12.64084pt too wide) in paragraph at lines 68--69
+Overfull \hbox (12.64084pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 in Nb at 15ka. At dis-tances greater that 40km, a peak in Nb an
 d CO$[]$ flux is pre-dicted 
  []
 
 
-Overfull \hbox (6.68233pt too wide) in paragraph at lines 68--69
+Overfull \hbox (6.68233pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 to oc-cur with an in-creas-ing de-lay com-pared to the cen-tre 
 of ex-ten-sion (Fig-ure 4[]). This 
  []
 
 
-Overfull \hbox (3.18231pt too wide) in paragraph at lines 68--69
+Overfull \hbox (3.18231pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 de-lay is due to the greater dis-tance that the melt has to tra
 vel along the ver-ti-cal path 
  []
 
 
-Overfull \hbox (15.4323pt too wide) in paragraph at lines 68--69
+Overfull \hbox (15.4323pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 from the top of the melt zone to the sur-face at in-creas-ing d
 is-tance from the cen-tre of ex- 
  []
 
 
-Overfull \hbox (6.23793pt too wide) in paragraph at lines 68--69
+Overfull \hbox (6.23793pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 ten-sion. In full 2D mod-els the dis-tal melt will pool as it m
 i-grates lat-er-ally to-wards the 
  []
 
 
-Overfull \hbox (13.43228pt too wide) in paragraph at lines 68--69
+Overfull \hbox (13.43228pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 cen-tre of ex-ten-sion (Katz, 2008), yet the dif-fer-ence in as
 -cent ve-loc-ity due to the in-crease 
  []
 
 
-Overfull \hbox (4.71008pt too wide) in paragraph at lines 68--69
+Overfull \hbox (4.71008pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 poros-ity as the melt pools would likely not be suf-fi-cient to
  over-come the in-creased dis- 
- []
-
-
-Overfull \hbox (10.51573pt too wide) in paragraph at lines 70--71
-[]\OT1/cmr/m/n/10 The full so-lu-tion to the cou-pled equa-tions of magma dy-na
-m-ics would sug-gest that 
- []
-
-
-Overfull \hbox (6.23793pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 melts gen-er-ated at a dis-tance of up to 60km from the cen-tre
- of ex-ten-sion are ad-vected 
- []
-
-
-Overfull \hbox (6.9602pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 to the ridge axis (Katz, 2008). If all of the melt gen-er-ated 
-up to 60km from the cen-tre 
- []
-
-
-Overfull \hbox (11.6407pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 of ex-ten-sion is erupted, then the CO$[]$ flux is sig-nif-i-ca
-ntly in-creased dur-ing the Holocene 
- []
-
-
-Overfull \hbox (21.57137pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 due to the ad-di-tion in-put of melt from the dis-tal parts of 
-the zone of par-tial melt-ing (Fig- 
- []
-
-
-Overfull \hbox (6.23788pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 ure 4[]b). There-fore these low pro-duc-tiv-ity and deep re-gio
-ns of the zone of par-tial melt- 
- []
-
-
-Overfull \hbox (8.40459pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 ing might be a key ex-porter of man-tle car-bon into the at-mo-
-sphere. How-ever, the range 
- []
-
-
-Overfull \hbox (29.43243pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 of ob-served Nb con-cen-tra-tions are rel-a-tively sim-i-lar to
- the ax-ial con-cen-tra-tions, from within 
- []
-
-
-Overfull \hbox (6.21016pt too wide) in paragraph at lines 70--71
-\OML/cmm/m/it/10 <$\OT1/cmr/m/n/10 40km of the rift cen-tre (Fig-ure 4[]). This
- would sug-gest that the widest re-gions of the 
- []
-
-
-Overfull \hbox (0.9046pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 zone of par-tial melt-ing are not sam-pled by the vol-can-ism i
-n the Reyk-janes Ridge and 
- []
-
-
-Overfull \hbox (9.61285pt too wide) in paragraph at lines 70--71
-\OT1/cmr/m/n/10 West-ern Vol-canic Zone, lead-ing to an es-ti-mate of CO$[]$ fl
-uxes more in line with the sim- 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-Overfull \hbox (12.82143pt too wide) in paragraph at lines 74--75
+Overfull \hbox (10.51573pt too wide) in paragraph at lines 71--72
+[]\OT1/cmr/m/n/10 The full so-lu-tion to the cou-pled equa-tions of magma dy-na
+m-ics would sug-gest that 
+ []
+
+
+Overfull \hbox (6.23793pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 melts gen-er-ated at a dis-tance of up to 60km from the cen-tre
+ of ex-ten-sion are ad-vected 
+ []
+
+
+Overfull \hbox (6.9602pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 to the ridge axis (Katz, 2008). If all of the melt gen-er-ated 
+up to 60km from the cen-tre 
+ []
+
+
+Overfull \hbox (11.6407pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 of ex-ten-sion is erupted, then the CO$[]$ flux is sig-nif-i-ca
+ntly in-creased dur-ing the Holocene 
+ []
+
+
+Overfull \hbox (21.57137pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 due to the ad-di-tion in-put of melt from the dis-tal parts of 
+the zone of par-tial melt-ing (Fig- 
+ []
+
+
+Overfull \hbox (6.23788pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 ure 4[]b). There-fore these low pro-duc-tiv-ity and deep re-gio
+ns of the zone of par-tial melt- 
+ []
+
+
+Overfull \hbox (8.40459pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 ing might be a key ex-porter of man-tle car-bon into the at-mo-
+sphere. How-ever, the range 
+ []
+
+
+Overfull \hbox (29.43243pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 of ob-served Nb con-cen-tra-tions are rel-a-tively sim-i-lar to
+ the ax-ial con-cen-tra-tions, from within 
+ []
+
+
+Overfull \hbox (6.21016pt too wide) in paragraph at lines 71--72
+\OML/cmm/m/it/10 <$\OT1/cmr/m/n/10 40km of the rift cen-tre (Fig-ure 4[]). This
+ would sug-gest that the widest re-gions of the 
+ []
+
+
+Overfull \hbox (0.9046pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 zone of par-tial melt-ing are not sam-pled by the vol-can-ism i
+n the Reyk-janes Ridge and 
+ []
+
+
+Overfull \hbox (9.61285pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 West-ern Vol-canic Zone, lead-ing to an es-ti-mate of CO$[]$ fl
+uxes more in line with the sim- 
+ []
+
+
+Overfull \hbox (12.82143pt too wide) in paragraph at lines 75--76
 []\OT1/cmr/m/n/10 The mod-els im-ply that the deglacia-tion be-gin-ning at 18ka
  and con-tin-u-ing through 
  []
 
 
-Overfull \hbox (1.16856pt too wide) in paragraph at lines 74--75
+Overfull \hbox (1.16856pt too wide) in paragraph at lines 75--76
 \OT1/cmr/m/n/10 the Bolling warm-ing at 14.8ka re-leased sub-stan-tial quan-ti-
 ties of CO$[]$ when com-pared 
  []
 
 
-Overfull \hbox (9.97404pt too wide) in paragraph at lines 74--75
+Overfull \hbox (9.97404pt too wide) in paragraph at lines 75--76
 \OT1/cmr/m/n/10 to the last 120ka (Fig-ure 3[]c and Fig-ure 4[]b), and this el-
 e-vated CO$[]$ re-lease was be-cause 
  []
 
 
-Overfull \hbox (4.8212pt too wide) in paragraph at lines 74--75
+Overfull \hbox (4.8212pt too wide) in paragraph at lines 75--76
 \OT1/cmr/m/n/10 of the pre-ced-ing growth of the ice sheet. Vol-can-ism dur-ing
  this time would have taken 
  []
 
 
-Overfull \hbox (16.62688pt too wide) in paragraph at lines 74--75
+Overfull \hbox (16.62688pt too wide) in paragraph at lines 75--76
 \OT1/cmr/m/n/10 place in a sub-glacial en-vi-ron-ment and un-sur-pris-ingly doe
 s not fea-ture in the post-glacial 
  []
 
 
-Overfull \hbox (4.87683pt too wide) in paragraph at lines 74--75
+Overfull \hbox (4.87683pt too wide) in paragraph at lines 75--76
 \OT1/cmr/m/n/10 sub-aerial record. Ev-i-dence from sub-glacial vol-canic units 
 (tuyas) erupted dur-ing this 
  []
 
 
-Overfull \hbox (0.62688pt too wide) in paragraph at lines 74--75
+Overfull \hbox (0.62688pt too wide) in paragraph at lines 75--76
 \OT1/cmr/m/n/10 time pe-riod (Hart-ley, Thor-dar-son, & de Joux, 2016) sug-gest
  vol-u-met-ric and com-po-si- 
  []
 
 
-Overfull \hbox (8.76572pt too wide) in paragraph at lines 76--77
+Overfull \hbox (8.76572pt too wide) in paragraph at lines 77--78
 []\OT1/cmr/m/n/10 Forcing our model with the long-term 120ka ice sheet his-tory
  pro-duces a pe-ri-odic 
  []
 
 
-Overfull \hbox (2.47401pt too wide) in paragraph at lines 76--77
+Overfull \hbox (2.47401pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 flux-ing of CO$[]$ from Ice-landic vol-ca-noes due to ice-loss 
 events over this pe-riod, im-ply- 
  []
 
 
-Overfull \hbox (2.18228pt too wide) in paragraph at lines 76--77
+Overfull \hbox (2.18228pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 ing a close link be-tween ice dy-nam-ics and mag-matic out-gass
 ing. The great-est re-lease 
  []
 
 
-Overfull \hbox (2.97397pt too wide) in paragraph at lines 76--77
+Overfull \hbox (2.97397pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 of CO$[]$, how-ever, oc-curred dur-ing the pe-riod of ice-loss 
 just be-fore the Younger Dryas 
  []
 
 
-Overfull \hbox (9.04356pt too wide) in paragraph at lines 76--77
+Overfull \hbox (9.04356pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 ($\OMS/cmsy/m/n/10 ^^X$\OT1/cmr/m/n/10 14ka), and there-fore be
 -fore the largest phase of late-Pleistocene deglacia-tion (Fig-ure 
  []
 
 
-Overfull \hbox (8.77953pt too wide) in paragraph at lines 76--77
+Overfull \hbox (8.77953pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 4[]). The con-cen-tra-tion of CO$[]$ re-leased in this mag-mati
 c pulse was en-hanced due to the 
  []
 
 
-Overfull \hbox (7.76573pt too wide) in paragraph at lines 76--77
+Overfull \hbox (7.76573pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 lack of any sig-nif-i-cant loss of ice vol-ume since $\OMS/cmsy
 /m/n/10 ^^X$\OT1/cmr/m/n/10 40ka. This cre-ated a mag-matic sys-tem 
  []
 
 
-Overfull \hbox (21.66861pt too wide) in paragraph at lines 76--77
+Overfull \hbox (21.66861pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 ca-pa-ble of flux-ing large vol-umes of car-bon dur-ing the ini
 -tial pe-riod of post-LGM deglacia- 
  []
 
 
-Overfull \hbox (10.29356pt too wide) in paragraph at lines 76--77
+Overfull \hbox (10.29356pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 tion (both mod-els M1 and M2, Fig-ure 3[]e), pos-si-bly con-tri
 but-ing to the in-creased at-mo- 
  []
 
 
-Overfull \hbox (10.224pt too wide) in paragraph at lines 76--77
+Overfull \hbox (10.224pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 spheric CO$[]$ lev-els thought to be recorded be-tween 15 and 1
 4ka in the EPICA Dome C 
  []
 
 
-Overfull \hbox (6.62683pt too wide) in paragraph at lines 76--77
+Overfull \hbox (6.62683pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 ice core (K^^?ohler, Knorr, Bu-iron, Louran-tou, & Chap-pel-laz
 , 2011). It is there-fore pos-si- 
  []
 
 
-Overfull \hbox (12.97403pt too wide) in paragraph at lines 76--77
+Overfull \hbox (12.97403pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 ble that this pulse of mag-ma-genic CO$[]$, from Ice-land and e
 lse-where (e.g. /citephuybers- 
  []
 
 
-Overfull \hbox (13.37688pt too wide) in paragraph at lines 76--77
+Overfull \hbox (13.37688pt too wide) in paragraph at lines 77--78
 \OT1/cmr/m/n/10 2009, bol-stered the cli-mate warm-ing, and fi-nal phase of deg
 lacia-tion, that pro-ceeded the 
  []
@@ -1598,91 +1626,85 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Overfull \hbox (25.55733pt too wide) in paragraph at lines 78--79
+Overfull \hbox (0.27951pt too wide) in paragraph at lines 79--80
 []\OT1/cmr/m/n/10 The CO$[]$ flux due to deglacia-tion is strongly in-flu-enced
- by the prior ice sheet growth. 
+ by the ice sheet his-tory. 
  []
 
 
-Overfull \hbox (2.9601pt too wide) in paragraph at lines 78--79
-\OT1/cmr/m/n/10 It is the sus-tained growth of the Ice-landic ice sheet be-fore
- 25ka lead to the sig-nif-i-cant 
+Overfull \hbox (3.02962pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 Man-tle CO$[]$ flux does not fol-low a lin-ear re-la-tion-ship 
+with erup-tion rates: large peaks 
  []
 
 
-Overfull \hbox (9.25186pt too wide) in paragraph at lines 78--79
-\OT1/cmr/m/n/10 pulse in vol-can-ism and CO$[]$ upon deglacia-tion at the end o
-f the Pleis-tocene (Fig-ure 4[]). 
+Overfull \hbox (17.55739pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 in CO$[]$ are also pre-dicted for pe-ri-ods in time when the vo
+l-ume flux is not very high (Fig- 
  []
 
 
-Overfull \hbox (16.21011pt too wide) in paragraph at lines 78--79
-\OT1/cmr/m/n/10 This would im-ply that while a rapid loss of mass can trig-ger 
-in-creased erup-tions, the im- 
+Overfull \hbox (10.57121pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 ure 2[]d and 3[]e). In ef-fect we can-not con-clude that all de
+glacia-tion events, or other rapid 
  []
 
 
-Overfull \hbox (14.16856pt too wide) in paragraph at lines 78--79
-\OT1/cmr/m/n/10 pact on at-mo-spheric CO$[]$ con-cen-tra-tions is strongly mod-
-u-lated by the full his-tory of the 
+Overfull \hbox (17.37683pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 un-load-ing events due to for ex-am-ple ero-sion (e.g. Ster-nai
+, Car-ic-chi, Castell-tort, & Cham- 
  []
 
 
-Overfull \hbox (14.4879pt too wide) in paragraph at lines 78--79
-\OT1/cmr/m/n/10 chang-ing sur-face load. In ef-fect we can-not con-clude that a
-ll deglacia-tion events, or other 
+Overfull \hbox (24.07132pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 pagnac, 2016), lead to a large flux of volatile gases into the 
+Earths at-mo-sphere. The Earth 
  []
 
 
-Overfull \hbox (6.01573pt too wide) in paragraph at lines 78--79
-\OT1/cmr/m/n/10 rapid un-load-ing events due to for ex-am-ple ero-sion, lead to
- a large flux of volatile gases 
+Overfull \hbox (35.84904pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 sys-tem is more com-plex than such sim-ple causal-ity, yet one 
+clear im-pli-ca-tion is that deglacia- 
  []
 
 
-Overfull \hbox (15.68233pt too wide) in paragraph at lines 78--79
-\OT1/cmr/m/n/10 into the Earths at-mo-sphere. The Earth sys-tem is more com-ple
-x that such sim-ple causal- 
+Overfull \hbox (12.90462pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/10 tion af-ter a pro-longed pe-riod of ice-house con-di-tions will
+ lead to a sig-nif-i-cant car-bon de- 
  []
 
 
-Overfull \hbox (2.01572pt too wide) in paragraph at lines 78--79
-\OT1/cmr/m/n/10 ity, yet one clear im-pli-ca-tion is that deglacia-tion af-ter 
-a pro-longed pe-riod of ice-house 
- []
-
-
-Overfull \hbox (10.23799pt too wide) in paragraph at lines 82--83
+Overfull \hbox (10.23799pt too wide) in paragraph at lines 83--84
 []\OT1/cmr/m/n/10 A de-tailed dis-cus-sion of the method-ol-ogy can be found in
  the sup-port-ing in-for-ma- 
  []
 
 
-Overfull \hbox (26.01578pt too wide) in paragraph at lines 82--83
+Overfull \hbox (26.01578pt too wide) in paragraph at lines 83--84
 \OT1/cmr/m/n/10 tion (An-der-sen et al.[], 2004; An-drews, 2008; Ar-mitage, Col
 -lier, Min-shull, & Hen-stock, 2011; 
  []
 
 
-Overfull \hbox (19.68243pt too wide) in paragraph at lines 82--83
+Overfull \hbox (19.68243pt too wide) in paragraph at lines 83--84
 \OT1/cmr/m/n/10 Clark et al.[], 2009; Geirsd^^Sottir, 2011; Gib-son & Geist, 20
 10; Gurenko & Chaus-si-don, 1995; 
  []
 
 
-Overfull \hbox (15.32138pt too wide) in paragraph at lines 82--83
+Overfull \hbox (15.32138pt too wide) in paragraph at lines 83--84
 \OT1/cmr/m/n/10 Katz, Spiegel-man, & Lang-muir, 2003; Lam-beck & Chap-pel, 2001
 ; Lam-beck, Rouby, Pur- 
  []
 
 
-Overfull \hbox (11.47403pt too wide) in paragraph at lines 82--83
+Overfull \hbox (11.47403pt too wide) in paragraph at lines 83--84
 \OT1/cmr/m/n/10 cell, Sun, & Sam-bridge, 2014; McKen-zie & O'Nions, 1991; Mille
 r, Zhu, Mont^^Sesi, & Gae- 
  []
 
 
-Overfull \hbox (9.73805pt too wide) in paragraph at lines 82--83
+Overfull \hbox (9.73805pt too wide) in paragraph at lines 83--84
 \OT1/cmr/m/n/10 tani, 2014; Ribe, 1985; Scott, 1992; Short-tle & Maclen-nan, 20
 11; Sil-beck, 1975; Sleep & 
  []
@@ -1698,31 +1720,31 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
 
-Overfull \hbox (15.30731pt too wide) in paragraph at lines 84--86
+Overfull \hbox (15.30731pt too wide) in paragraph at lines 85--87
 \OT1/cmr/m/n/10 We would like to thank M. A. Mary Gee (The Uni-ver-sity of West
 -ern Aus-tralia) for shar- 
  []
 
 
-Overfull \hbox (10.57135pt too wide) in paragraph at lines 84--86
+Overfull \hbox (10.57135pt too wide) in paragraph at lines 85--87
 \OT1/cmr/m/n/10 ing her Nb com-po-si-tion data from the Reyk-janes Penin-sula, 
 and Tamara Pico (Har-vard 
  []
 
 
-Overfull \hbox (18.37683pt too wide) in paragraph at lines 84--86
+Overfull \hbox (18.37683pt too wide) in paragraph at lines 85--87
 \OT1/cmr/m/n/10 Uni-ver-sity) for shar-ing her sea level curves. John J. Ar-mit
 age ac-knowl-edges fund-ing from 
  []
 
 
-Overfull \hbox (4.73775pt too wide) in paragraph at lines 84--86
+Overfull \hbox (4.73775pt too wide) in paragraph at lines 85--87
 \OT1/cmr/m/n/10 an Agence Na-tional de la Recherche (France), Ac-ceul de Cherch
 eurs de Haute Niveau, 
  []
 
 
-Overfull \hbox (67.87494pt too wide) in paragraph at lines 84--86
+Overfull \hbox (67.87494pt too wide) in paragraph at lines 85--87
 \OT1/cmr/m/n/10 grant In-ter-Rift. The 1-D melt-ing model is avail-able from $\
 OT1/cmtt/m/n/10 https :// bitbucket [] .com / johnjarmitage / 
  []
@@ -1825,7 +1847,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 325--344
 and chronol-ogy, a closer look \OT1/cmr/m/n/10 (Vol.[] 15, 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 358--373
 \OT1/cmr/m/n/10 spheric thick-ness vari-a-tion be-neath gal^^Sapagos.  \OT1/cmr
 /m/it/10 Earth and Plan-e-tary Sci-ence 
@@ -1851,9 +1873,6 @@ Let-ters\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 26\OT1/cmr/m/n/10 , 1759-1762.  (doi
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
 Underfull \hbox (badness 10000) in paragraph at lines 454--469
 \OT1/cmr/m/n/10 in-cluded in olivine from ice-landic tholei-ites: Ori-gin by co
 n-tin-u-ous melt-ing of a 
@@ -1916,42 +1935,47 @@ oi:
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 686--701
+Underfull \hbox (badness 10000) in paragraph at lines 658--678
+[]\OT1/cmr/m/n/10 Jenkins, J., Maclen-nan, J., Green, R. G., Cot-taar, S., Deus
+s, A. F., & White, R. S. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--678
+\OT1/cmr/m/n/10 (2018).  Crustal for-ma-tion on a spread-ing ridge above a man-
+tle plume: Re- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--678
+\OT1/cmr/m/n/10 ceiver func-tion imag-ing of the Ice-landic crust.  \OT1/cmr/m/
+it/10 Jour-nal of Geopghys-i-cal Re- 
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 718--733
 []\OT1/cmr/m/n/10 Katz, R. F.  (2008).  Magma dy-nam-ics with the en-thalpy met
 hod: Bench-mark so- 
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 686--701
+Underfull \hbox (badness 1406) in paragraph at lines 718--733
 \OT1/cmr/m/n/10 lu-tions and mag-matic fo-cus-ing at mid-ocean ridges.  \OT1/cm
 r/m/it/10 Jour-nal of Petrol-ogy\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 49\OT1/cmr/m
 /n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 746--766
+Underfull \hbox (badness 10000) in paragraph at lines 778--798
 \OT1/cmr/m/n/10 rise in at-mo-spheric CO$[]$ at the on-set of the Bolling/Aller
 od: in-situ ice core 
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 746--766
+Underfull \hbox (badness 1590) in paragraph at lines 778--798
 \OT1/cmr/m/n/10 data ver-sus true at-mo-spheric sig-nals.  \OT1/cmr/m/it/10 Cli
 -mate of the Past\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 7\OT1/cmr/m/n/10 , 473-486.
   (doi: 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 780--798
-\OT1/cmr/m/n/10 land plume from ra-dial vari-a-tion of $[]$U - $[]$Th dis-e-qui
--lib-ria in post-glacial 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 780--798
-\OT1/cmr/m/n/10 vol-canic rocks.  \OT1/cmr/m/it/10 Earth and Plan-e-tary Sci-en
-ce Let-ters\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 214\OT1/cmr/m/n/10 , 176-186.  (d
-oi: 
  []
 
 
@@ -1979,6 +2003,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 875--890
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
 Underfull \hbox (badness 7486) in paragraph at lines 906--923
 []\OT1/cmr/m/n/10 Maclennan, J., Jull, M., McKen-zie, D., Slater, L., & Gronv^^
 ?old, K.  (2002).  The 
@@ -1991,399 +2018,456 @@ cmr/m/it/10 Geo-chem-istry Geo-physics
  []
 
 
-Underfull \hbox (badness 2894) in paragraph at lines 937--952
-\OT1/cmr/m/n/10 der cen-tral Ice-land.  \OT1/cmr/m/it/10 Earth and Plan-e-tary 
-Sci-ence Let-ters\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 194\OT1/cmr/m/n/10 , 67-82.
-  (doi: 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-Underfull \hbox (badness 1484) in paragraph at lines 994--1011
+Underfull \hbox (badness 1484) in paragraph at lines 965--982
 []\OT1/cmr/m/n/10 Miller, K. J., Zhu, W., Mont^^Sesi, L. G. J., & Gae-tani, G. 
 A.  (2014).  Ex-per-i-men-tal 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1072
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1043
+[]\OT1/cmr/m/n/10 Pagli, C., & Sig-munds-son, F.  (2008).  Will present day gla
+cier re-treat in-crease 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1043
+\OT1/cmr/m/n/10 vol-canic ac-tiv-ity? stress in-duced by re-cent glacier re-tre
+at and its ef-fect on 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1058--1075
 \OT1/cmr/m/n/10 tion, sen-si-tiv-ity and rapid re-treat of the Late We-ich-seli
 an Ice-landic ice sheet. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1114--1131
+Underfull \hbox (badness 10000) in paragraph at lines 1117--1134
 []\OT1/cmr/m/n/10 Pico, T., Crev-el-ing, J. R., & Mitr-vica, J. X.  (2017).  Se
 a-level records from the 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1114--1131
+Underfull \hbox (badness 10000) in paragraph at lines 1117--1134
 \OT1/cmr/m/n/10 U.S. mid-Atlantic con-strain Lau-ren-tide Ice Sheet ex-tent dur
 -ing Ma-rine Iso-tope 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1143--1164
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1167
 []\OT1/cmr/m/n/10 Rawson, H., Pyle, D. M., Mather, T. A., Smith, V. S., Fontjin
 , K., La-chow-cyz, 
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 1143--1164
+Underfull \hbox (badness 1259) in paragraph at lines 1146--1167
 \OT1/cmr/m/n/10 S. M., & Naranjo, J. A.  (2016).  The mag-matic and erup-tive r
 e-sponse of arc 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1202--1222
+Underfull \hbox (badness 10000) in paragraph at lines 1205--1225
 \OT1/cmr/m/n/10 na-tion of C, F, and H par-ti-tion-ing be-tween man-tle min-er-
 als and car-bon-ated 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1202--1222
+Underfull \hbox (badness 10000) in paragraph at lines 1205--1225
 \OT1/cmr/m/n/10 basalt, CO$[]$/Ba and CO$[]$/Nb sys-tem-at-ics of par-tial melt
 -ing, and the CO$[]$ 
  []
 
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 2368) in paragraph at lines 1234--1251
+Underfull \hbox (badness 5741) in paragraph at lines 1240--1258
+[]\OT1/cmr/m/n/10 Saal, A. E., Hauri, E. H., Lang-muir, C. H., & Per-fit, M. R.
+  (2002).  Vapour un- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1258
+\OT1/cmr/m/n/10 der-sat-u-ra-tion in prim-i-tive mid-ocean-ridge basalt and the
+ volatile con-tent of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1270--1289
+[]\OT1/cmr/m/n/10 Schmidt, P., Lund, B., Hi-erony-mus, C., Maclen-nan, J., Ar-n
+adot-tir, T., & Pagli, 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1270--1289
+\OT1/cmr/m/n/10 C.  (2013).  Ef-fects of present-day deglacia-tion in Ice-land 
+on man-tle melt 
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 1270--1289
+\OT1/cmr/m/n/10 pro-duc-tion rates.  \OT1/cmr/m/it/10 Jour-nal of Geo-phys-i-ca
+l Re-search\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 118\OT1/cmr/m/n/10 , 3366-3379.  
+(doi: 
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 1301--1318
 \OT1/cmr/m/n/10 ridges.  In J. Phipps Mor-gan, D. K. Black-man, & J. M. Sin-ton
  (Eds.[]), \OT1/cmr/m/it/10 Man-tle 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1234--1251
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1318
 \OT1/cmr/m/it/10 flow and melt gen-er-a-tion at mid-ocean ridges \OT1/cmr/m/n/1
 0 (Vol.[] Geo-phys-i-cal Mono-graph 71, 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1265--1281
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1348
 []\OT1/cmr/m/n/10 Shorttle, O., & Maclen-nan, J.  (2011).  Com-po-si-tional tre
 nds of ice-landic 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1265--1281
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1348
 \OT1/cmr/m/n/10 basalts: Im-pli-ca-tions for short-length scale litho-log-i-cal
  het-ero-gene-ity in 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1265--1281
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1348
 \OT1/cmr/m/n/10 man-tle plumes.  \OT1/cmr/m/it/10 Geo-chem-istry Geo-physics Ge
 osys-tems\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 12\OT1/cmr/m/n/10 , Q11008.  (doi: 
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1313
+Underfull \hbox (badness 10000) in paragraph at lines 1362--1380
 []\OT1/cmr/m/n/10 Sigvaldson, G. E., An-nertz, K., & Nils-son, M.  (1992).  Ef-
 fect of glacier load- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1313
+Underfull \hbox (badness 10000) in paragraph at lines 1362--1380
 \OT1/cmr/m/n/10 ing/deloading on vol-can-ism: post-glacial vol-canic pro-duc-ti
 on rate of the Dyn- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1295--1313
+Underfull \hbox (badness 10000) in paragraph at lines 1362--1380
 \OT1/cmr/m/n/10 gjufj^^?oll area, cen-tral Ice-land.  \OT1/cmr/m/it/10 BUl-leti
 n of Vol-canol-ogy\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 54\OT1/cmr/m/n/10 , 385-39
 2.  (doi: 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1325--1339
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 1392--1406
 \OT1/cmr/m/it/10 sum-mer study pro-gram in geo-phys-i-cal fluid dy-nam-ics at t
 he woods hole oceano- 
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 1353--1369
+Underfull \hbox (badness 1708) in paragraph at lines 1420--1436
 []\OT1/cmr/m/n/10 Sinton, J., Gr^^?onvold, K., & Sae-mu-nds-son, K.  (2005).  P
 ost-glacial erup-tive his-tory 
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 1353--1369
+Underfull \hbox (badness 1342) in paragraph at lines 1420--1436
 \OT1/cmr/m/n/10 of the West-ern Vol-canic Zone, Ice-land.  \OT1/cmr/m/it/10 Geo
 -chem-istry Geo-physics Geosys-tems\OT1/cmr/m/n/10 , 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1464
 []\OT1/cmr/m/n/10 Sleep, N. H., & Snell, N. S.  (1976).  Ther-mal con-trac-tion
  and flex-ure of mid- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1383--1397
+Underfull \hbox (badness 10000) in paragraph at lines 1450--1464
 \OT1/cmr/m/n/10 continent and At-lantic marginal basins.  \OT1/cmr/m/it/10 Geo-
 phys-i-cal Jour-nal of the Royal 
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 1409--1422
+Underfull \hbox (badness 2142) in paragraph at lines 1476--1489
 []\OT1/cmr/m/n/10 Spiegelman, M.  (1996).  Geo-chem-i-cal con-se-quences of mel
 t trans-port in 2-D: The 
  []
 
 
-Underfull \hbox (badness 6510) in paragraph at lines 1465--1481
+Underfull \hbox (badness 3482) in paragraph at lines 1532--1550
+[]\OT1/cmr/m/n/10 Sternai, P., Car-ic-chi, L., Castell-tort, S., & Cham-pagnac,
+ J. D.  (2016).  Deglacia- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1532--1550
+\OT1/cmr/m/n/10 tion and glacial ero-sion: A joint con-trol on magma pro-duc-ti
+v-ity by con- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1532--1550
+\OT1/cmr/m/n/10 ti-nen-tal un-load-ing.  \OT1/cmr/m/it/10 Geo-phys-i-cal Re-sea
+rch Let-ters\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 43\OT1/cmr/m/n/10 , 1632-1641.  
+(doi: 
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 1565--1581
 []\OT1/cmr/m/n/10 Wasylenki, L. E., Baker, M. B., Kent, A. J. R., & Sto-pler, E
 . M.  (2003).  Near- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1481
+Underfull \hbox (badness 10000) in paragraph at lines 1565--1581
 \OT1/cmr/m/n/10 solidus melt-ing of the shal-low up-per man-tle: par-tial melt-
 ing ex-per-i-ments on 
  []
 
-) [9]
-<../figures/version05/supp-figure4.png, id=49, 337.38045pt x 159.59625pt>
+) [10]
+<../figures/version05/supp-figure4.png, id=51, 337.38045pt x 159.59625pt>
 File: ../figures/version05/supp-figure4.png Graphic file (type png)
 <use ../figures/version05/supp-figure4.png>
 Package pdftex.def Info: ../figures/version05/supp-figure4.png  used on input l
-ine 94.
+ine 95.
 (pdftex.def)             Requested size: 337.37961pt x 159.59584pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 96.
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 []\OT1/cmr/bx/n/9 Figure  1. \OT1/cmr/m/n/9 Pro-files of poros-ity and S-wave s
 eis-mic ve-loc-ity for the two model per-me-abil-i-ties of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 \OT1/cmr/m/n/9 state. (b) S-wave ve-loc-ity from the joint in-ver-sion of tele-
 seis-mic and am-bi-ent noise Rayleigh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 \OT1/cmr/m/n/9 waves (Har-mon & Rychert, 2016) and the pre-dicted S-wave pro-fi
 le from the high per-me-abil-ity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 \OT1/cmr/m/n/9 case. The model in-cludes the ad-di-tion of the adi-a-batic gra-
 di-ent, the an-har-monic ef-fects from the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 \OT1/cmr/m/n/9 min-er-al-ogy and ef-fects of at-ten-u-a-tion (Goes et al.[], 20
 12). The dashed line as-sumes melt has no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--95
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 \OT1/cmr/m/n/9 ef-fect, the solid line in-cludes a 7.9% re-duc-tion in $\OML/cm
 m/m/it/9 V[]$ \OT1/cmr/m/n/9 per per-cent melt (Ham-mond & Humphreys,
  []
 
-<../figures/version05/figure2.png, id=51, 562.0197pt x 273.06015pt>
+<../figures/version05/figure2.png, id=53, 562.0197pt x 273.06015pt>
 File: ../figures/version05/figure2.png Graphic file (type png)
 <use ../figures/version05/figure2.png>
 Package pdftex.def Info: ../figures/version05/figure2.png  used on input line 1
-00.
+01.
 (pdftex.def)             Requested size: 398.33858pt x 193.54073pt.
 
-Overfull \hbox (0.85359pt too wide) in paragraph at lines 100--101
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 101--102
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 []\OT1/cmr/bx/n/9 Figure  2. \OT1/cmr/m/n/9 Re-sponse of the model to pe-ri-odi
 c and ob-served ice sheet thick-ness changes of the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 \OT1/cmr/m/n/9 last 120ka. (a) Map of Ice-land show-ing the lo-ca-tions of the 
 vol-canic rift zones in or-ange and the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 \OT1/cmr/m/n/9 max-i-mum ex-tent of the ice sheet at the last glacial max-i-mum
  (dashed line). The boxes show the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 \OT1/cmr/m/n/9 lo-ca-tion of the Reyk-janes Penin-su-lar (R. P.) and the West-e
 rn Vol-canic Zone (W. V. Z.). (b) The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 \OT1/cmr/m/n/9 ice sheet thick-ness pre-dicted from the ice sheet model M1 over
  the last 120ka. (c) Melt erup-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 \OT1/cmr/m/n/9 rate and (d) car-bon flux re-sponse to the step change in ice sh
 eet thick-ness: black line, an up-per
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 101--101
+Underfull \hbox (badness 1226) in paragraph at lines 102--102
 \OT1/cmr/m/n/9 man-tle per-me-abil-ity co-ef-fi-cient of $\OML/cmm/m/it/9 k[] \
 OT1/cmr/m/n/9 = 10[] m[]$ and up-welling ve-loc-ity of $10 mm yr[]$, and blue
  []
 
-<../figures/version05/figure3.png, id=52, 517.33275pt x 221.8689pt>
+<../figures/version05/figure3.png, id=54, 517.33275pt x 221.8689pt>
 File: ../figures/version05/figure3.png Graphic file (type png)
 <use ../figures/version05/figure3.png>
 Package pdftex.def Info: ../figures/version05/figure3.png  used on input line 1
-06.
+07.
 (pdftex.def)             Requested size: 398.33858pt x 170.83957pt.
 
-Overfull \hbox (0.85359pt too wide) in paragraph at lines 106--107
+Overfull \hbox (0.85359pt too wide) in paragraph at lines 107--108
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []\OT1/cmr/bx/n/9 Figure  3. \OT1/cmr/m/n/9 Im-pact of ice sheet grown and de-c
 ay on melt erup-tion and com-po-si-tion over the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \OT1/cmr/m/n/9 last 40ka. (a) Ice sheet mod-els M1 and M2 taken from the sea-le
 vel mod-els of Peltier (2004) and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \OT1/cmr/m/n/9 Pico et al.[] (2017) re-spec-tively. (b) Melt erup-tion rates (i
 nkm of melt per Myr): blue solid line,
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 107--107
+Underfull \hbox (badness 1584) in paragraph at lines 108--108
 \OML/cmm/m/it/9 k[] \OT1/cmr/m/n/9 = 10[] m[]$ with an up-welling rate of $20 m
 m yr[]$. The gray re-gion shows es-ti-mated erup-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \OT1/cmr/m/n/9 rates from ge-o-log-i-cal ob-ser-va-tions (Maclen-nan et al.[], 
 2002)] (in km$[]$ of melt per Myr). (c) Ob-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \OT1/cmr/m/n/9 served and pre-dicted Nb con-cen-tra-tions (ppm), ob-ser-va-tion
 s are from the Reyk-janes Penin-sula
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \OT1/cmr/m/n/9 and the West-ern Vol-canic Zone (Ea-son et al.[], 2015; Gee et a
 l.[], 1998; Sin-ton et al.[], 2005) and are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \OT1/cmr/m/n/9 binned at 2.5kyr in-ter-vals from 0 to 17.5ka and then at 5kyr i
 n-ter-vals. (d) Pre-dicted vari-a-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \OT1/cmr/m/n/9 in the con-cen-tra-tion of car-bon (ppm) within the erupted melt
 . (e) Pre-dicted vari-a-tion in the flux
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 \OT1/cmr/m/n/9 of CO$[]$, as-sum-ing that the flux of CO$[]$ that Ice-landic vo
 l-can-ism cov-ers an area of 30,000km$[]$, and
  []
 
-<../figures/version05/figure4.png, id=53, 267.8808pt x 394.3533pt>
+<../figures/version05/figure4.png, id=55, 267.8808pt x 394.3533pt>
 File: ../figures/version05/figure4.png Graphic file (type png)
 <use ../figures/version05/figure4.png>
 Package pdftex.def Info: ../figures/version05/figure4.png  used on input line 1
-12.
+13.
 (pdftex.def)             Requested size: 267.88014pt x 394.35233pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 []\OT1/cmr/bx/n/9 Figure  4. \OT1/cmr/m/n/9 Im-pact of glacial his-tory on off-
 axis and on-axis melt-ing. A se-ries of 1D col-umn
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 melt-ing mod-els forced by the re-sponse to deglacia-tion (ice s
 heet his-tory model M1) where the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 man-tle flow is of steady state cor-ner flow. (a) Nb con-cen-tra
 -tions from the cen-tre of ex-ten-sion out
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 to 60km from the cen-tre of ex-ten-sion. The mean con-cen-tra-ti
 on weighted by the erup-tion rate is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 plot-ted as the thick black line. (b) Pre-dicted CO$[]$ flux fro
 m the se-ries of ver-ti-cal melt-ing mod-els.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 The late-Pleistocene erup-tions are typ-i-fied by tuya mag-ma-ti
 sm. This will have been the case up
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 un-til at least $\OMS/cmsy/m/n/9 ^^X$\OT1/cmr/m/n/9 14ka, where 
 ei-ther mag-ma-tism was sup-pressed or when erup-tions oc-curred they
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 will have been be-neath at least 1km of ice-cover (Hart-ley et a
 l.[], 2016). The sup-pressed melt-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 regime will have be-come car-bon rich be-cause the shal-low low-
 C melt pro-duc-tion is damped due
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/cmr/m/n/9 to the ice-sheet load-ing. Upon deglacia-tion there is in-crease
 d vol-can-sim, which ini-tially taps the
  []
 
-
-Package natbib Warning: There were undefined citations.
-
-[10 <../figures/version05/supp-figure4.png> <../figures/version05/figure2.png>]
-[11 <../figures/version05/figure3.png>] [12 <../figures/version05/figure4.png>]
+[11 <../figures/version05/supp-figure4.png> <../figures/version05/figure2.png>]
+[12 <../figures/version05/figure3.png>] [13 <../figures/version05/figure4.png>]
 (./ice-melt-percolate-grl.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -2391,13 +2475,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 3918 strings out of 494923
- 55057 string characters out of 6180742
- 122101 words of memory out of 5000000
- 7161 multiletter control sequences out of 15000+600000
+ 3930 strings out of 494923
+ 55318 string characters out of 6180742
+ 122275 words of memory out of 5000000
+ 7173 multiletter control sequences out of 15000+600000
  10564 words of font info for 38 fonts, out of 8000000 for 9000
  20 hyphenation exceptions out of 8191
- 50i,8n,37p,2038b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,8n,37p,2038b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
@@ -2419,10 +2503,10 @@ blic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 tt9.pfb>
-Output written on ice-melt-percolate-grl.pdf (12 pages, 6685020 bytes).
+Output written on ice-melt-percolate-grl.pdf (13 pages, 6686655 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+ 144 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

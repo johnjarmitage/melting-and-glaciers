@@ -186,12 +186,12 @@ where $k_{0}$ is the permeability coefficient, $n$ is the exponent on the assume
 \phi\left(v_{l}-v_{s}\right) = \frac{k_{0}\phi^{n}}{\eta_{l}} \Delta\rho g.
 \label{eq:11}
 \end{equation}
-Furthermore, we substitute vs with the average velocity (equation \ref{eq:2}) to get,
+Furthermore, we substitute $v_{s}$ with the average velocity (equation \ref{eq:2}) to get,
 \begin{equation}
 \left(v_{l}-\bar{v}\right) = \left(1-\phi\right)\frac{k_{0}\phi^{n-1}}{\eta_{l}} \Delta\rho g.
 \label{eq:12}
 \end{equation}
-This form of Darcy's law allows us to substitute for $v_{l}$ within the conservation of the liquid phase. Based on laboratory experiments, where permeability as found to be related to porosity to the power of $n = 2.6\pm0.2$ \citep{miller-etal-2014}, we assume $n=3$, to give,
+This form of Darcy's law allows us to substitute for $v_{l}$ within the conservation of the liquid phase. Based on laboratory experiments, where permeability is found to be related to porosity to the power of $n = 2.6\pm0.2$ \citep{miller-etal-2014}, we assume $n=3$, to give,
 \begin{equation}
 \frac{\partial \phi}{\partial t} + \bar{v} \frac{\partial \phi}{\partial z} + \frac{3k_{0}\Delta\rho g}{\eta_{l}} \phi^{2}\left(1-\frac{4}{3}\phi\right)\frac{\partial \phi}{\partial z} = m.
 \label{eq:13}
@@ -252,7 +252,7 @@ where $f$ is the proportion of each mineral within plagiolcase, spinel, and garn
 
 To convert the predicted concentration of carbon to a flux of CO$_{2}$ we assume that the flux of carbon is given by,
 \begin{equation}
-\Psi_{CO_{2}} = 3.69 C_{C} A\rho_{l} \phi_{surface} \left(v_{l} - v_{s} \right)
+\Psi_{CO_{2}} = 3.69 C_{C} A\rho_{l} \phi^{surface} \left(v_{l} - v_{s} \right)_{surface}
 \label{eq:23}
 \end{equation}
 where the factor 3.67 accounts for the conversion of carbon to CO$_{2}$, $C_{C}$ is the carbon concentration in the melt at $\phi_{surface}$, the upper boundary of the model, and $A$ is the surface area of magmatism, which is assumed to be 30,000\,km$^{2}$.
@@ -262,6 +262,13 @@ We first solve equations \ref{eq:8} and \ref{eq:13}, decomposing the diffusion a
 \noindent\textit{Model Evolution due to Step Changes in Ice Sheet Thickness}
 
 We perturb the model with a periodic step function of glaciation and deglaciation that has a periodicity of 40\,ka (Figure \ref{fg:S3}a). The peak in eruption rate is sensitive to the permeability (Figure \ref{fg:S3}b). The peak occurs sooner and with greater intensity if the permeability coefficient is high ($10^{-5}\rm\,m^{2}$; Figure \ref{fg:S3}b). This is because the rate of melt percolation is much more rapid if the melt permeability is high \citep{burley-2015}. In contrast, for a lower permeability coefficient, $10^{-7}\rm\,m^{2}$, the peak in melt production is diluted by the slower melt transport, and the signal of increased melt production reaches the surface with a delay of a few thousand years (Figure \ref{fg:S3}b). Glaciation acts to gradually shut down melt generation, as the signal of surface displacement travels down the 1-D model (Figure \ref{fg:S3}b). Carbon fluxes mirror the trend in melt eruption rate (Figure \ref{fg:S3}c), with sharp peaks upon deglaciation due to the increased flux of melt. We do not observe a significant delay between the CO$_{2}$ flux and eruption rate \citep{burley-2015}, as we find that carbon partitions into the melt not only at the on-set of melt production but throughout the deep zone of partial melting. If the permeability coefficient is high, $10^{-5}\rm\,m^{2}$, there is a broad bulge in CO$_{2}$ flux that arrives after the peak. This secondary pulse is due to the arrival of deep carbon rich melts percolating upwards as the lower regions of the zone of partial melting recover.
+
+\noindent\textit{Steady state melt thickness}
+The thickness of melt delivered to the model upper surface can be calculated from the 2D version of the code, where we assume a corner flow for the mantle and model melt percolation as a set of vertical columns:
+\begin{equation}
+h_{melt} = \frac{1}{v_{spread}}\int \left(v_{l}(x) - v_{s}(x) \right)_{surface}\phi_{surface}(x) dx
+\end{equation}
+where $v_{spread}$ is the half spreading rate for the corner flow solution. The steady state melt thickness defined by this equation gives a steady state thickness of 15\,km (Figure \ref{fg:S4}).
 
 \noindent\textbf{Data Set S1.}
 
@@ -289,9 +296,17 @@ The observed Nb compositions come from \citet{gee-etal-1998,sinton-etal-2005,eas
 \end{figure}
 
 \begin{figure}
+\setfigurenum{S3}
 \includegraphics{../figures/version05/supp-figure5.eps}
 \caption{Model response to a repeated step change ice sheet thickness. (A) Periodic change in ice sheet thickness assuming a width, $\lambda$, of 200\,km. (B) Model response in terms of eruption rate. Here the model elastic thickness is 10\,km, the viscosity is $10^{21}\rm\,Pa\,s$, the upwelling rate is $10\rm\,mm\,yr^{-1}$, and the mantle temperature is $1450\rm\,^{\circ}C$. The black line is for a permeability coefficient of $10^{-7}\rm\,m^{2}$, and the red line is for a permeability coefficient of $10^{-5}\rm\,m^{2}$. (C) Model response in terms of CO$_{2}$ flux.}
 \label{fg:S3}
+\end{figure}
+
+\begin{figure}
+\setfigurenum{S4}
+\includegraphics{../figures/version05/supp-figureN.eps}
+\caption{Prediction of melt thickness assuming a mantle temperature of $1450\rm\,^{\circ}C$ and a half spreading rate of $10\rm\,mm\,yr^{-1}$.}
+\label{fg:S4}
 \end{figure}
 
 % ---------------

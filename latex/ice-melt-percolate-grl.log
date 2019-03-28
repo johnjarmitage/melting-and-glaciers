@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.15)  27 MAR 2019 10:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.15)  28 MAR 2019 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,9 +306,9 @@ Overfull \hbox (8.29338pt too wide) in paragraph at lines 24--25
  []
 
 
-Overfull \hbox (18.9741pt too wide) in paragraph at lines 25--26
-[]\OT1/cmr/m/n/10 Magmatism and CO$[]$ out-gassing is in-flu-enced by both the 
-rate of deglacia-tion and, 
+Overfull \hbox (18.55737pt too wide) in paragraph at lines 26--27
+[]\OT1/cmr/m/n/10 Icelandic CO$[]$ de-gassing likely peaked first at 60ka, and 
+sec-ondly with three pulses 
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -659,51 +659,69 @@ e ex-act rate of ver-ti-cal as-
  []
 
 
-Overfull \hbox (0.48784pt too wide) in paragraph at lines 42--43
+Overfull \hbox (0.96008pt too wide) in paragraph at lines 42--43
 \OT1/cmr/m/n/10 cent the man-tle be-low Ice-land due to man-tle buoy-ancy. The 
-up-welling col-umn is per- 
+up-welling col-umn, which 
  []
 
 
-Overfull \hbox (14.79347pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/10 turbed by the dis-place-ment due to load-ing, where the vis-coe
-las-tic de-cay time of the load 
+Overfull \hbox (4.32135pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 spans a depth range of 300 to 30km, is per-turbed by the dis-pl
+ace-ment due to load-ing, 
  []
 
 
-Overfull \hbox (3.34908pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/10 is set to 1000yrs. Car-bon par-ti-tion-ing into the melt is as-
-sumed to be gov-erned by the 
+Overfull \hbox (13.90456pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 where the vis-coelas-tic de-cay time of the load is set to 1000
+yrs. The up-per sur-face of the 
  []
 
 
-Overfull \hbox (10.34898pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/10 co-ef-fi-cients de-rived by (Rosen-thal et al.[], 2015). We use
- a man-tle source com-po-si-tion for 
+Overfull \hbox (0.62683pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 melt-ing model is held at 30km to be con-sis-tent with the Moho
+ depth, which is in the 
  []
 
 
-Overfull \hbox (2.62677pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/10 Nb of 1.627ppm, which is in-ter-me-di-ate be-tween the end-memb
-er sources for Ice-landic 
+Overfull \hbox (6.79362pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 range of 20 to 40km be-low Ice-land (Jenk-ins et al.[], 2018). 
+Car-bon par-ti-tion-ing into the 
  []
 
 
-Overfull \hbox (23.0158pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/10 melts iden-ti-fied by (Short-tle & Maclen-nan, 2011). To ap-pro
-x-i-mate the melt-ing of the mul- 
+Overfull \hbox (3.37674pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 melt is as-sumed to be gov-erned by the co-ef-fi-cients de-rive
+d by (Rosen-thal et al.[], 2015). 
  []
 
 
-Overfull \hbox (10.41832pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/10 ti-ple source litholo-gies we chose a solidus-depletion gra-di-
-ent of $600 []C$ which is in-ter-me- 
+Overfull \hbox (14.04349pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 We use a man-tle source com-po-si-tion for Nb of 1.627ppm, whic
+h is in-ter-me-di-ate be-tween 
  []
 
 
-Overfull \hbox (19.47404pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/10 di-ate be-tween that of melt-ing ex-per-i-ments on de-pleted ma
-n-tle, $900 []C$ (Wa-sylenki, Baker, 
+Overfull \hbox (10.68236pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 the end-member sources for Ice-landic melts iden-ti-fied by (Sh
+ort-tle & Maclen-nan, 2011). 
+ []
+
+
+Overfull \hbox (20.46013pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 To ap-prox-i-mate the melt-ing of the mul-ti-ple source litholo
+-gies we chose a solidus-depletion 
+ []
+
+
+Overfull \hbox (19.91843pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 gra-di-ent of $600 []C$ which is in-ter-me-di-ate be-tween that
+ of melt-ing ex-per-i-ments on de-pleted 
+ []
+
+
+Overfull \hbox (25.71017pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 man-tle, $900 []C$ (Wa-sylenki, Baker, Kent, & Sto-pler, 2003) 
+and fer-tile man-tle $300 []C$ (Scott, 
  []
 
 
@@ -1125,6 +1143,9 @@ up-tions, and the mag-ni-tude of CO$[]$
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
 Overfull \hbox (11.25189pt too wide) in paragraph at lines 61--62
 []\OT1/cmr/m/n/10 During the last 40ka, our model sug-gest that CO$[]$ flux is 
 highly de-pen-dent on the 
@@ -1161,9 +1182,6 @@ Overfull \hbox (11.27974pt too wide) in paragraph at lines 61--62
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
 Overfull \hbox (11.40445pt too wide) in paragraph at lines 63--64
 []\OT1/cmr/m/n/10 The ob-served time se-ries of in-com-pat-i-ble trace el-e-men
 t con-cen-tra-tions in Ice-landic 
@@ -1685,7 +1703,10 @@ Overfull \hbox (9.73805pt too wide) in paragraph at lines 83--84
 11; Sil-beck, 1975; Sleep & 
  []
 
-[6]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no œ in font cmr10!
@@ -1820,16 +1841,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 325--344
 and chronol-ogy, a closer look \OT1/cmr/m/n/10 (Vol.[] 15, 
  []
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 358--373
 \OT1/cmr/m/n/10 spheric thick-ness vari-a-tion be-neath gal^^Sapagos.  \OT1/cmr
 /m/it/10 Earth and Plan-e-tary Sci-ence 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
 Underfull \hbox (badness 10000) in paragraph at lines 388--406
 []\OT1/cmr/m/n/10 Glazner, A. F., Man-ley, C. R., Mar-ron, J. S., & Ro-js-tacze
 r, S.  (1999).  Fire 
@@ -1979,6 +1997,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 875--890
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
 Underfull \hbox (badness 7486) in paragraph at lines 906--923
 []\OT1/cmr/m/n/10 Maclennan, J., Jull, M., McKen-zie, D., Slater, L., & Gronv^^
 ?old, K.  (2002).  The 
@@ -1991,9 +2012,6 @@ cmr/m/it/10 Geo-chem-istry Geo-physics
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
 Underfull \hbox (badness 1484) in paragraph at lines 965--982
 []\OT1/cmr/m/n/10 Miller, K. J., Zhu, W., Mont^^Sesi, L. G. J., & Gae-tani, G. 
 A.  (2014).  Ex-per-i-men-tal 
@@ -2138,15 +2156,15 @@ n of Vol-canol-ogy\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 54\OT1/cmr/m/n/10 , 385-39
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
 Underfull \hbox (badness 10000) in paragraph at lines 1392--1406
 \OT1/cmr/m/it/10 sum-mer study pro-gram in geo-phys-i-cal fluid dy-nam-ics at t
 he woods hole oceano- 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
 Underfull \hbox (badness 1708) in paragraph at lines 1420--1436
 []\OT1/cmr/m/n/10 Sinton, J., Gr^^?onvold, K., & Sae-mu-nds-son, K.  (2005).  P
 ost-glacial erup-tive his-tory 
@@ -2457,7 +2475,7 @@ Here is how much of TeX's memory you used:
  7173 multiletter control sequences out of 15000+600000
  10564 words of font info for 38 fonts, out of 8000000 for 9000
  20 hyphenation exceptions out of 8191
- 50i,8n,37p,2038b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,8n,37p,2038b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
@@ -2479,7 +2497,7 @@ blic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 tt9.pfb>
-Output written on ice-melt-percolate-grl.pdf (13 pages, 6686732 bytes).
+Output written on ice-melt-percolate-grl.pdf (13 pages, 6686836 bytes).
 PDF statistics:
  144 PDF objects out of 1000 (max. 8388607)
  98 compressed objects within 1 object stream

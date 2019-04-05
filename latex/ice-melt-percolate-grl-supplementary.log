@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2019.1.15)  26 MAR 2019 14:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=latex 2019.1.15)  5 APR 2019 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -285,30 +285,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
 File: ../figures/version05/supp-figure5.eps Graphic file (type eps)
 <../figures/version05/supp-figure5.eps>
-File: ../figures/version05/supp-figureN.eps Graphic file (type eps)
+File: ../figures/version05/melt-thickness.eps Graphic file (type eps)
 
-<../figures/version05/supp-figureN.eps>
-Overfull \hbox (122.295pt too wide) in paragraph at lines 307--308
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--308
-
- []
-
-
-LaTeX Warning: Float too large for page by 241.83913pt on input line 310.
-
-[16] [17] [18] [19] (./ice-melt-percolate-grl-supplementary.aux) ) 
+<../figures/version05/melt-thickness.eps> [16] [17] [18] [19]
+(./ice-melt-percolate-grl-supplementary.aux) ) 
 Here is how much of TeX's memory you used:
  2323 strings out of 494924
- 30069 string characters out of 6180768
+ 30075 string characters out of 6180768
  96618 words of memory out of 5000000
  5668 multiletter control sequences out of 15000+600000
  13932 words of font info for 48 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  30i,7n,29p,1607b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ice-melt-percolate-grl-supplementary.dvi (19 pages, 41288 byt
+Output written on ice-melt-percolate-grl-supplementary.dvi (19 pages, 41272 byt
 es).
